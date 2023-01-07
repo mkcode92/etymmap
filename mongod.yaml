@@ -1,0 +1,7 @@
+# mongo docker config
+storage:
+    journal:
+        enabled: false
+    wiredTiger:
+        engineConfig:
+            cacheSizeGB: 1

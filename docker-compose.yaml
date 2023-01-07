@@ -1,0 +1,43 @@
+version: "3.8"
+services:
+  mongodb:
+    image: mongo:5.0.6
+    container_name: mongodb
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - ./.mongodb/database:/data/db
+      - ./mongod.yaml:/etc/mongo/mongod.yaml
+    ports:
+      - "27017:27017"
+    restart: unless-stopped
+    command:
+      - '--config'
+      - '/etc/mongo/mongod.yaml'
+
+  neo4j:
+    image: neo4j:4.4.6
+    hostname: neo4j
+    container_name: neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - $HOME/c/priv/etymmap2/.neo4j/data:/data
+      - $HOME/c/priv/etymmap2/.neo4j/import:/import
+      - $HOME/c/priv/etymmap2/.neo4j/plugins:/plugins
+    environment:
+      - NEO4J_AUTH=neo4j/neo4j123
+      - NEO4J_dbms_default__database=etymmap
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_apoc_import_file_use__neo4j__config=true
+      - NEO4JLABS_PLUGINS=["apoc"]
+
+  explorer:
+    image: etymmap-explorer:0.1.0
+    hostname: explorer
+    container_name: etymmap-explorer
+    ports:
+      - "8050:8050"
