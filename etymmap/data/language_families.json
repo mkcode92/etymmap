@@ -1,0 +1,6033 @@
+{
+  "aav": {
+    "Canonical name": "Austroasiatic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 3
+  },
+  "afa": {
+    "Canonical name": "Afroasiatic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 3
+  },
+  "alg": {
+    "Canonical name": "Algonquian",
+    "Parent family": "Algic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 25
+  },
+  "alv": {
+    "Canonical name": "Atlantic-Congo",
+    "Parent family": "Niger-Congo",
+    "Other names": [],
+    "Subfamilies": 7,
+    "Languages": 8
+  },
+  "apa": {
+    "Canonical name": "Apachean",
+    "Parent family": "Athabaskan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "aqa": {
+    "Canonical name": "Alacalufan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "aql": {
+    "Canonical name": "Algic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "ath": {
+    "Canonical name": "Athabaskan",
+    "Parent family": "Na-Dene",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "auf": {
+    "Canonical name": "Arauan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "awd": {
+    "Canonical name": "Arawakan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 60
+  },
+  "azc": {
+    "Canonical name": "Uto-Aztecan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 14
+  },
+  "bad": {
+    "Canonical name": "Banda",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 6
+  },
+  "bai": {
+    "Canonical name": "Bamileke",
+    "Parent family": "Eastern Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "bat": {
+    "Canonical name": "Baltic",
+    "Parent family": "Balto-Slavic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "ber": {
+    "Canonical name": "Berber",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 23
+  },
+  "bnt": {
+    "Canonical name": "Bantu",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 35,
+    "Languages": 11
+  },
+  "btk": {
+    "Canonical name": "Batak",
+    "Parent family": "Northwest Sumatran",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "cba": {
+    "Canonical name": "Chibchan",
+    "Parent family": "Macro-Chibchan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 28
+  },
+  "ccn": {
+    "Canonical name": "North Caucasian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "ccs": {
+    "Canonical name": "Kartvelian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "cdc": {
+    "Canonical name": "Chadic",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "cdd": {
+    "Canonical name": "Caddoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "cel": {
+    "Canonical name": "Celtic",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 8
+  },
+  "chi": {
+    "Canonical name": "Chimakuan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "cmc": {
+    "Canonical name": "Chamic",
+    "Parent family": "Malayo-Chamic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "csu": {
+    "Canonical name": "Central Sudanic",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 3
+  },
+  "cus": {
+    "Canonical name": "Cushitic",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 3
+  },
+  "day": {
+    "Canonical name": "Land Dayak",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "del": {
+    "Canonical name": "Lenape",
+    "Parent family": "Eastern Algonquian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "dmn": {
+    "Canonical name": "Mande",
+    "Parent family": "Niger-Congo",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "dra": {
+    "Canonical name": "Dravidian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 86
+  },
+  "egx": {
+    "Canonical name": "Egyptian",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "esx": {
+    "Canonical name": "Eskimo-Aleut",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "euq": {
+    "Canonical name": "Vasconic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "gem": {
+    "Canonical name": "Germanic",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "gme": {
+    "Canonical name": "East Germanic",
+    "Parent family": "Germanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "gmq": {
+    "Canonical name": "North Germanic",
+    "Parent family": "Germanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 19
+  },
+  "gmw": {
+    "Canonical name": "West Germanic",
+    "Parent family": "Germanic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 46
+  },
+  "grk": {
+    "Canonical name": "Hellenic",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "him": {
+    "Canonical name": "Western Pahari",
+    "Parent family": "Pahari",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 17
+  },
+  "hmn": {
+    "Canonical name": "Hmong",
+    "Parent family": "Hmong-Mien",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 35
+  },
+  "hmx": {
+    "Canonical name": "Hmong-Mien",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "hok": {
+    "Canonical name": "Hokan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "hyx": {
+    "Canonical name": "Armenian",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "iir": {
+    "Canonical name": "Indo-Iranian",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "ijo": {
+    "Canonical name": "Ijoid",
+    "Parent family": "Niger-Congo",
+    "Other names": [
+      "Ijaw"
+    ],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "inc": {
+    "Canonical name": "Indo-Aryan",
+    "Parent family": "Indo-Iranian",
+    "Other names": [],
+    "Subfamilies": 8,
+    "Languages": 3
+  },
+  "ine": {
+    "Canonical name": "Indo-European",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 10,
+    "Languages": 13
+  },
+  "ira": {
+    "Canonical name": "Iranian",
+    "Parent family": "Indo-Iranian",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 1
+  },
+  "iro": {
+    "Canonical name": "Iroquoian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "itc": {
+    "Canonical name": "Italic",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 15
+  },
+  "jpx": {
+    "Canonical name": "Japonic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "kar": {
+    "Canonical name": "Karen",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "kro": {
+    "Canonical name": "Kru",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 3
+  },
+  "map": {
+    "Canonical name": "Austronesian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 22
+  },
+  "mkh": {
+    "Canonical name": "Mon-Khmer",
+    "Parent family": "Austroasiatic",
+    "Other names": [],
+    "Subfamilies": 10,
+    "Languages": 18
+  },
+  "mno": {
+    "Canonical name": "Manobo",
+    "Parent family": "Philippine",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "mun": {
+    "Canonical name": "Munda",
+    "Parent family": "Austroasiatic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 25
+  },
+  "myn": {
+    "Canonical name": "Mayan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 33
+  },
+  "ngf": {
+    "Canonical name": "Trans-New Guinea",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 198
+  },
+  "nic": {
+    "Canonical name": "Niger-Congo",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 3
+  },
+  "nub": {
+    "Canonical name": "Nubian",
+    "Parent family": "Northern Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 7
+  },
+  "omq": {
+    "Canonical name": "Oto-Manguean",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 7,
+    "Languages": 16
+  },
+  "omv": {
+    "Canonical name": "Omotic",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 4
+  },
+  "oto": {
+    "Canonical name": "Otomian",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "phi": {
+    "Canonical name": "Philippine",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 170
+  },
+  "poz": {
+    "Canonical name": "Malayo-Polynesian",
+    "Parent family": "Austronesian",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 62
+  },
+  "pqe": {
+    "Canonical name": "Eastern Malayo-Polynesian",
+    "Parent family": "Central-Eastern Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "pra": {
+    "Canonical name": "Prakrit",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 0
+  },
+  "qwe": {
+    "Canonical name": "Quechuan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "roa": {
+    "Canonical name": "Romance",
+    "Parent family": "Italic",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 7
+  },
+  "sal": {
+    "Canonical name": "Salishan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 26
+  },
+  "sdv": {
+    "Canonical name": "Eastern Sudanic",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 15
+  },
+  "sem": {
+    "Canonical name": "Semitic",
+    "Parent family": "Afroasiatic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "sio": {
+    "Canonical name": "Siouan",
+    "Parent family": "Siouan-Catawban",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 2
+  },
+  "sit": {
+    "Canonical name": "Sino-Tibetan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 25,
+    "Languages": 7
+  },
+  "sla": {
+    "Canonical name": "Slavic",
+    "Parent family": "Balto-Slavic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "smi": {
+    "Canonical name": "Sami",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "son": {
+    "Canonical name": "Songhay",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sqj": {
+    "Canonical name": "Albanian",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "ssa": {
+    "Canonical name": "Nilo-Saharan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 7,
+    "Languages": 5
+  },
+  "syd": {
+    "Canonical name": "Samoyedic",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "tai": {
+    "Canonical name": "Tai",
+    "Parent family": "Be-Tai",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 9
+  },
+  "tbq": {
+    "Canonical name": "Tibeto-Burman",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 0
+  },
+  "trk": {
+    "Canonical name": "Turkic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 8
+  },
+  "tup": {
+    "Canonical name": "Tupian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 30
+  },
+  "tuw": {
+    "Canonical name": "Tungusic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "urj": {
+    "Canonical name": "Uralic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 3
+  },
+  "wak": {
+    "Canonical name": "Wakashan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "wen": {
+    "Canonical name": "Sorbian",
+    "Parent family": "West Slavic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "xgn": {
+    "Canonical name": "Mongolic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "xme": {
+    "Canonical name": "Median",
+    "Parent family": "Medo-Parthian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 8
+  },
+  "xnd": {
+    "Canonical name": "Na-Dene",
+    "Parent family": "Dene-Yeniseian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "xsc": {
+    "Canonical name": "Scythian",
+    "Parent family": "Northeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "ypk": {
+    "Canonical name": "Yupik",
+    "Parent family": "Eskimo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "zhx": {
+    "Canonical name": "Sinitic",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 16
+  },
+  "zle": {
+    "Canonical name": "East Slavic",
+    "Parent family": "Slavic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "zls": {
+    "Canonical name": "South Slavic",
+    "Parent family": "Slavic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "zlw": {
+    "Canonical name": "West Slavic",
+    "Parent family": "Slavic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 4
+  },
+  "znd": {
+    "Canonical name": "Zande",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "aav-khs": {
+    "Canonical name": "Khasian",
+    "Parent family": "Austroasiatic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "aav-nic": {
+    "Canonical name": "Nicobarese",
+    "Parent family": "Austroasiatic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "aav-pkl": {
+    "Canonical name": "Pnar-Khasi-Lyngngam",
+    "Parent family": "Khasian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alg-abp": {
+    "Canonical name": "Abenaki-Penobscot",
+    "Parent family": "Eastern Algonquian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alg-ara": {
+    "Canonical name": "Arapahoan",
+    "Parent family": "Algonquian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alg-eas": {
+    "Canonical name": "Eastern Algonquian",
+    "Parent family": "Algonquian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 16
+  },
+  "alg-sfk": {
+    "Canonical name": "Sac-Fox-Kickapoo",
+    "Parent family": "Algonquian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-aah": {
+    "Canonical name": "Ayere-Ahan",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-ada": {
+    "Canonical name": "Adamawa",
+    "Parent family": "Savanna",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "alv-bag": {
+    "Canonical name": "Baga",
+    "Parent family": "Mel",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "alv-bak": {
+    "Canonical name": "Bak",
+    "Parent family": "Senegambian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 4
+  },
+  "alv-bam": {
+    "Canonical name": "Bambukic",
+    "Parent family": "Adamawa",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "alv-bny": {
+    "Canonical name": "Banyum",
+    "Parent family": "Nyun",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-bua": {
+    "Canonical name": "Bua",
+    "Parent family": "Mbum-Day",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "alv-bwj": {
+    "Canonical name": "Bikwin-Jen",
+    "Parent family": "Bambukic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "alv-cng": {
+    "Canonical name": "Cangin",
+    "Parent family": "Fula-Wolof",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "alv-ctn": {
+    "Canonical name": "Central Tano",
+    "Parent family": "Potou-Tano",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "alv-dlt": {
+    "Canonical name": "Delta Edoid",
+    "Parent family": "Edoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-dur": {
+    "Canonical name": "Duru",
+    "Parent family": "Leko-Nimbari",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "alv-ede": {
+    "Canonical name": "Ede",
+    "Parent family": "Yoruboid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "alv-edo": {
+    "Canonical name": "Edoid",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "alv-eeo": {
+    "Canonical name": "Edo-Esan-Ora",
+    "Parent family": "North-Central Edoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-fli": {
+    "Canonical name": "Fali",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-fwo": {
+    "Canonical name": "Fula-Wolof",
+    "Parent family": "Senegambian",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 3
+  },
+  "alv-gba": {
+    "Canonical name": "Gbaya",
+    "Parent family": "Savanna",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "alv-gbe": {
+    "Canonical name": "Gbe",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 14
+  },
+  "alv-gbf": {
+    "Canonical name": "Eastern Gbaya",
+    "Parent family": "Gbaya",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "alv-gbs": {
+    "Canonical name": "Southern Gbaya",
+    "Parent family": "Gbaya",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-gbw": {
+    "Canonical name": "Western Gbaya",
+    "Parent family": "Gbaya",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "alv-gda": {
+    "Canonical name": "Ga-Dangme",
+    "Parent family": "Kwa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-gng": {
+    "Canonical name": "Guang",
+    "Parent family": "Potou-Tano",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "alv-gtm": {
+    "Canonical name": "Ghana-Togo Mountain",
+    "Parent family": "Kwa",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "alv-hei": {
+    "Canonical name": "Heiban",
+    "Parent family": "Talodi-Heiban",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "alv-ido": {
+    "Canonical name": "Idomoid",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "alv-igb": {
+    "Canonical name": "Igboid",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "alv-jfe": {
+    "Canonical name": "Jola-Felupe",
+    "Parent family": "Jola",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-jol": {
+    "Canonical name": "Jola",
+    "Parent family": "Bak",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 7
+  },
+  "alv-kim": {
+    "Canonical name": "Kim",
+    "Parent family": "Mbum-Day",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-kis": {
+    "Canonical name": "Kissi",
+    "Parent family": "Mel",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-krb": {
+    "Canonical name": "Karaboro",
+    "Parent family": "Senufo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-ktg": {
+    "Canonical name": "Ka-Togo",
+    "Parent family": "Ghana-Togo Mountain",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "alv-kul": {
+    "Canonical name": "Kulango",
+    "Parent family": "Savanna",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-kwa": {
+    "Canonical name": "Kwa",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 3
+  },
+  "alv-lag": {
+    "Canonical name": "Lagoon",
+    "Parent family": "Kwa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "alv-lek": {
+    "Canonical name": "Leko",
+    "Parent family": "Leko-Nimbari",
+    "Other names": [
+      "Sambaic"
+    ],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-lim": {
+    "Canonical name": "Limba",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-lni": {
+    "Canonical name": "Leko-Nimbari",
+    "Parent family": "Adamawa",
+    "Other names": [
+      "Central Adamawa"
+    ],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "alv-mbd": {
+    "Canonical name": "Mbum-Day",
+    "Parent family": "Adamawa",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "alv-mbm": {
+    "Canonical name": "Mbum",
+    "Parent family": "Mbum-Day",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "alv-mel": {
+    "Canonical name": "Mel",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 5
+  },
+  "alv-mum": {
+    "Canonical name": "Mumuye",
+    "Parent family": "Mumuye-Yendang",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-mye": {
+    "Canonical name": "Mumuye-Yendang",
+    "Parent family": "Leko-Nimbari",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 8
+  },
+  "alv-nal": {
+    "Canonical name": "Nalu",
+    "Parent family": "Senegambian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-nce": {
+    "Canonical name": "North-Central Edoid",
+    "Parent family": "Edoid",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "alv-ngb": {
+    "Canonical name": "Nupe-Gbagyi",
+    "Parent family": "Nupoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "alv-ntg": {
+    "Canonical name": "Na-Togo",
+    "Parent family": "Ghana-Togo Mountain",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "alv-nup": {
+    "Canonical name": "Nupoid",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "alv-nwd": {
+    "Canonical name": "Northwestern Edoid",
+    "Parent family": "Edoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "alv-nyn": {
+    "Canonical name": "Nyun",
+    "Parent family": "Fula-Wolof",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "alv-pap": {
+    "Canonical name": "Papel",
+    "Parent family": "Bak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-pph": {
+    "Canonical name": "Phla\u2013Pher\u00e1",
+    "Parent family": "Gbe",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "alv-ptn": {
+    "Canonical name": "Potou-Tano",
+    "Parent family": "Kwa",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 5
+  },
+  "alv-sav": {
+    "Canonical name": "Savanna",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 7
+  },
+  "alv-sma": {
+    "Canonical name": "Suppire-Mamara",
+    "Parent family": "Senufo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-snf": {
+    "Canonical name": "Senufo",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "alv-sng": {
+    "Canonical name": "Senegambian",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "alv-snr": {
+    "Canonical name": "Senari",
+    "Parent family": "Senufo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "alv-swd": {
+    "Canonical name": "Southwestern Edoid",
+    "Parent family": "Edoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "alv-tal": {
+    "Canonical name": "Talodi",
+    "Parent family": "Talodi-Heiban",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "alv-tdj": {
+    "Canonical name": "Tagwana-Djimini",
+    "Parent family": "Senufo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "alv-ten": {
+    "Canonical name": "Tenda",
+    "Parent family": "Fula-Wolof",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "alv-the": {
+    "Canonical name": "Talodi-Heiban",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "alv-von": {
+    "Canonical name": "Volta-Niger",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 7,
+    "Languages": 3
+  },
+  "alv-wan": {
+    "Canonical name": "Wara-Natyoro",
+    "Parent family": "Savanna",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "alv-wjk": {
+    "Canonical name": "Waja-Kam",
+    "Parent family": "Adamawa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "alv-yek": {
+    "Canonical name": "Yekhee",
+    "Parent family": "North-Central Edoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "alv-yor": {
+    "Canonical name": "Yoruboid",
+    "Parent family": "Volta-Niger",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "alv-yun": {
+    "Canonical name": "Yungur",
+    "Parent family": "Bambukic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "ath-nor": {
+    "Canonical name": "North Athabaskan",
+    "Parent family": "Athabaskan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 31
+  },
+  "ath-pco": {
+    "Canonical name": "Pacific Coast Athabaskan",
+    "Parent family": "Athabaskan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "aus-arn": {
+    "Canonical name": "Arnhem",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 13
+  },
+  "aus-bub": {
+    "Canonical name": "Bunuban",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "aus-cww": {
+    "Canonical name": "Central New South Wales",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "aus-dal": {
+    "Canonical name": "Daly",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "aus-dyb": {
+    "Canonical name": "Dyirbalic",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "aus-gar": {
+    "Canonical name": "Garawan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "aus-gun": {
+    "Canonical name": "Gunwinyguan",
+    "Parent family": "Arnhem",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "aus-jar": {
+    "Canonical name": "Jarrakan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "aus-kar": {
+    "Canonical name": "Karnic",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "aus-mir": {
+    "Canonical name": "Mirndi",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "aus-nga": {
+    "Canonical name": "Ngayarda",
+    "Parent family": "Southwest Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "aus-nyu": {
+    "Canonical name": "Nyulnyulan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "aus-pam": {
+    "Canonical name": "Pama-Nyungan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 9,
+    "Languages": 111
+  },
+  "aus-pmn": {
+    "Canonical name": "Paman",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 44
+  },
+  "aus-psw": {
+    "Canonical name": "Southwest Pama-Nyungan",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 16
+  },
+  "aus-rnd": {
+    "Canonical name": "Arandic",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "aus-tnk": {
+    "Canonical name": "Tangkic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "aus-wdj": {
+    "Canonical name": "Iwaidjan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "aus-wor": {
+    "Canonical name": "Worrorran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "aus-yid": {
+    "Canonical name": "Yidinyic",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "aus-yng": {
+    "Canonical name": "Yangmanic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "aus-yol": {
+    "Canonical name": "Yolngu",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "aus-yuk": {
+    "Canonical name": "Yuin-Kuric",
+    "Parent family": "Pama-Nyungan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "awd-nwk": {
+    "Canonical name": "Nawiki",
+    "Parent family": "Arawakan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "awd-taa": {
+    "Canonical name": "Ta-Arawakan",
+    "Parent family": "Arawakan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "azc-cup": {
+    "Canonical name": "Cupan",
+    "Parent family": "Takic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "azc-nah": {
+    "Canonical name": "Nahuan",
+    "Parent family": "Uto-Aztecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 33
+  },
+  "azc-num": {
+    "Canonical name": "Numic",
+    "Parent family": "Uto-Aztecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "azc-tak": {
+    "Canonical name": "Takic",
+    "Parent family": "Uto-Aztecan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 4
+  },
+  "azc-trc": {
+    "Canonical name": "Taracahitic",
+    "Parent family": "Uto-Aztecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "bad-cnt": {
+    "Canonical name": "Central Banda",
+    "Parent family": "Banda",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "bnt-baf": {
+    "Canonical name": "Bafia",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-bbo": {
+    "Canonical name": "Bafo-Bonkeng",
+    "Parent family": "Sawabantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-bdz": {
+    "Canonical name": "Boma-Dzing",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-bek": {
+    "Canonical name": "Bekwilic",
+    "Parent family": "Ndzem-Bomwali",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-bki": {
+    "Canonical name": "Bena-Kinga",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-bmo": {
+    "Canonical name": "Bangi-Moi",
+    "Parent family": "Bangi-Ntomba",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-bne": {
+    "Canonical name": "Northeast Bantu",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 0
+  },
+  "bnt-bnm": {
+    "Canonical name": "Bangi-Ntomba",
+    "Parent family": "Bangi-Tetela",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "bnt-boa": {
+    "Canonical name": "Boan",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 7
+  },
+  "bnt-bot": {
+    "Canonical name": "Botatwe",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-bsa": {
+    "Canonical name": "Basaa",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-bsh": {
+    "Canonical name": "Bushoong",
+    "Parent family": "Bangi-Tetela",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-bso": {
+    "Canonical name": "Southern Bantu",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 3
+  },
+  "bnt-bta": {
+    "Canonical name": "Bati-Angba",
+    "Parent family": "Boan",
+    "Other names": [
+      "Late Bomokandian"
+    ],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-btb": {
+    "Canonical name": "Beti",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-bte": {
+    "Canonical name": "Bangi-Tetela",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "bnt-bun": {
+    "Canonical name": "Buja-Ngombe",
+    "Parent family": "Mboshi-Buja",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-chg": {
+    "Canonical name": "Chaga",
+    "Parent family": "Chaga-Taita",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-cht": {
+    "Canonical name": "Chaga-Taita",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "bnt-clu": {
+    "Canonical name": "Chokwe-Luchazi",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-com": {
+    "Canonical name": "Comorian",
+    "Parent family": "Sabaki",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-glb": {
+    "Canonical name": "Great Lakes Bantu",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 6
+  },
+  "bnt-haj": {
+    "Canonical name": "Haya-Jita",
+    "Parent family": "Great Lakes Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-kak": {
+    "Canonical name": "Kako",
+    "Parent family": "Pomo-Bomwali",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-kav": {
+    "Canonical name": "Kavango",
+    "Parent family": "Kavango-Southwest Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-kbi": {
+    "Canonical name": "Komo-Bira",
+    "Parent family": "Boan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-kel": {
+    "Canonical name": "Kele",
+    "Parent family": "Kele-Tsogo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "bnt-kil": {
+    "Canonical name": "Kilombero",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-kka": {
+    "Canonical name": "Kikuyu-Kamba",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-kmb": {
+    "Canonical name": "Kimbundu",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-kng": {
+    "Canonical name": "Kongo",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "bnt-kpw": {
+    "Canonical name": "Kpwe",
+    "Parent family": "Sawabantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-ksb": {
+    "Canonical name": "Kavango-Southwest Bantu",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "bnt-kts": {
+    "Canonical name": "Kele-Tsogo",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "bnt-lbn": {
+    "Canonical name": "Luban",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 7
+  },
+  "bnt-leb": {
+    "Canonical name": "Lebonya",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "bnt-lgb": {
+    "Canonical name": "Lega-Binja",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-lok": {
+    "Canonical name": "Logooli-Kuria",
+    "Parent family": "Great Lakes Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "bnt-lub": {
+    "Canonical name": "Luba",
+    "Parent family": "Luban",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-lun": {
+    "Canonical name": "Lunda",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-mak": {
+    "Canonical name": "Makua",
+    "Parent family": "Southern Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 16
+  },
+  "bnt-mbb": {
+    "Canonical name": "Mboshi-Buja",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "bnt-mbe": {
+    "Canonical name": "Mbole-Enya",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-mbi": {
+    "Canonical name": "Mbinga",
+    "Parent family": "Rufiji-Ruvuma",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "bnt-mbo": {
+    "Canonical name": "Mboshi",
+    "Parent family": "Mboshi-Buja",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-mbt": {
+    "Canonical name": "Mbete",
+    "Parent family": "Teke-Mbede",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-mby": {
+    "Canonical name": "Mbeya",
+    "Parent family": "Rukwa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-mij": {
+    "Canonical name": "Mijikenda",
+    "Parent family": "Sabaki",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-mka": {
+    "Canonical name": "Makaa",
+    "Parent family": "Ndzem-Bomwali",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-mne": {
+    "Canonical name": "Manenguba",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-mnj": {
+    "Canonical name": "Makaa-Njem",
+    "Parent family": "Pomo-Bomwali",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "bnt-mon": {
+    "Canonical name": "Mongo",
+    "Parent family": "Bangi-Ntomba",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-mra": {
+    "Canonical name": "Mbugwe-Rangi",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-msl": {
+    "Canonical name": "Masaba-Luhya",
+    "Parent family": "Great Lakes Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "bnt-mwi": {
+    "Canonical name": "Mwika",
+    "Parent family": "Rukwa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-ncb": {
+    "Canonical name": "Northeast Coast Bantu",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "bnt-ndb": {
+    "Canonical name": "Ndzem-Bomwali",
+    "Parent family": "Makaa-Njem",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "bnt-ngn": {
+    "Canonical name": "Ngondi-Ngiri",
+    "Parent family": "Mboshi-Buja",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 16
+  },
+  "bnt-ngu": {
+    "Canonical name": "Nguni",
+    "Parent family": "Southern Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "bnt-nya": {
+    "Canonical name": "Nyali",
+    "Parent family": "Lebonya",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-nyb": {
+    "Canonical name": "Nyanga-Buyi",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-nyg": {
+    "Canonical name": "Nyoro-Ganda",
+    "Parent family": "Great Lakes Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "bnt-nys": {
+    "Canonical name": "Nyasa",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "bnt-nze": {
+    "Canonical name": "Nzebi",
+    "Parent family": "Teke-Mbede",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "bnt-ova": {
+    "Canonical name": "Ovambo",
+    "Parent family": "Southwest Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-par": {
+    "Canonical name": "Pare",
+    "Parent family": "Northeast Coast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-pen": {
+    "Canonical name": "Pende",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-pob": {
+    "Canonical name": "Pomo-Bomwali",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "bnt-ruk": {
+    "Canonical name": "Rukwa",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "bnt-run": {
+    "Canonical name": "Rungwe",
+    "Parent family": "Rukwa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-rur": {
+    "Canonical name": "Rufiji-Ruvuma",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "bnt-ruv": {
+    "Canonical name": "Ruvu",
+    "Parent family": "Northeast Coast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "bnt-rvm": {
+    "Canonical name": "Ruvuma",
+    "Parent family": "Rufiji-Ruvuma",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-sab": {
+    "Canonical name": "Sabaki",
+    "Parent family": "Northeast Coast Bantu",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 2
+  },
+  "bnt-saw": {
+    "Canonical name": "Sawabantu",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 7
+  },
+  "bnt-sbi": {
+    "Canonical name": "Sabi",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-seu": {
+    "Canonical name": "Seuta",
+    "Parent family": "Northeast Coast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-shh": {
+    "Canonical name": "Shi-Havu",
+    "Parent family": "Great Lakes Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-sho": {
+    "Canonical name": "Shona",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "bnt-sir": {
+    "Canonical name": "Sira",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-ske": {
+    "Canonical name": "Soko-Kele",
+    "Parent family": "Bangi-Tetela",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-sna": {
+    "Canonical name": "Sena",
+    "Parent family": "Nyasa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-sts": {
+    "Canonical name": "Sotho-Tswana",
+    "Parent family": "Southern Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "bnt-swb": {
+    "Canonical name": "Southwest Bantu",
+    "Parent family": "Kavango-Southwest Bantu",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 7
+  },
+  "bnt-swh": {
+    "Canonical name": "Swahili",
+    "Parent family": "Sabaki",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "bnt-tek": {
+    "Canonical name": "Teke",
+    "Parent family": "Teke-Mbede",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 8
+  },
+  "bnt-tet": {
+    "Canonical name": "Tetela",
+    "Parent family": "Bangi-Tetela",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-tkc": {
+    "Canonical name": "Central Teke",
+    "Parent family": "Teke",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-tkm": {
+    "Canonical name": "Takama",
+    "Parent family": "Northeast Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "bnt-tmb": {
+    "Canonical name": "Teke-Mbede",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "bnt-tso": {
+    "Canonical name": "Tsogo",
+    "Parent family": "Kele-Tsogo",
+    "Other names": [
+      "Okani"
+    ],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "bnt-tsr": {
+    "Canonical name": "Tswa-Ronga",
+    "Parent family": "Southern Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "bnt-yak": {
+    "Canonical name": "Yaka",
+    "Parent family": "Bantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "bnt-yko": {
+    "Canonical name": "Yasa-Kombe",
+    "Parent family": "Sawabantu",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "bnt-zbi": {
+    "Canonical name": "Zamba-Binza",
+    "Parent family": "Bangi-Ntomba",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "cau-abz": {
+    "Canonical name": "Abkhaz-Abaza",
+    "Parent family": "Northwest Caucasian",
+    "Other names": [
+      "Abkhaz-Tapanta"
+    ],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "cau-ava": {
+    "Canonical name": "Avaro-Andian",
+    "Parent family": "Northeast Caucasian",
+    "Other names": [
+      "Andian"
+    ],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "cau-cir": {
+    "Canonical name": "Circassian",
+    "Parent family": "Northwest Caucasian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "cau-drg": {
+    "Canonical name": "Dargwa",
+    "Parent family": "Northeast Caucasian",
+    "Other names": [
+      "Dargin"
+    ],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "cau-lzg": {
+    "Canonical name": "Lezghian",
+    "Parent family": "Northeast Caucasian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "cau-nec": {
+    "Canonical name": "Northeast Caucasian",
+    "Parent family": "North Caucasian",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 5
+  },
+  "cau-nkh": {
+    "Canonical name": "Nakh",
+    "Parent family": "Northeast Caucasian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "cau-nwc": {
+    "Canonical name": "Northwest Caucasian",
+    "Parent family": "North Caucasian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "cau-tsz": {
+    "Canonical name": "Tsezian",
+    "Parent family": "Northeast Caucasian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "cau-vay": {
+    "Canonical name": "Vainakh",
+    "Parent family": "Nakh",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "ccs-gzn": {
+    "Canonical name": "Georgian-Zan",
+    "Parent family": "Kartvelian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "ccs-zan": {
+    "Canonical name": "Zan",
+    "Parent family": "Georgian-Zan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "cdc-cbm": {
+    "Canonical name": "Central Chadic",
+    "Parent family": "Chadic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 70
+  },
+  "cdc-est": {
+    "Canonical name": "East Chadic",
+    "Parent family": "Chadic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 30
+  },
+  "cdc-mas": {
+    "Canonical name": "Masa",
+    "Parent family": "Chadic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "cdc-wst": {
+    "Canonical name": "West Chadic",
+    "Parent family": "Chadic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 65
+  },
+  "cel-bry": {
+    "Canonical name": "Brythonic",
+    "Parent family": "Celtic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "cel-gae": {
+    "Canonical name": "Goidelic",
+    "Parent family": "Celtic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "csu-bba": {
+    "Canonical name": "Bongo-Bagirmi",
+    "Parent family": "Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 3
+  },
+  "csu-bbk": {
+    "Canonical name": "Bongo-Baka",
+    "Parent family": "Bongo-Bagirmi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "csu-bgr": {
+    "Canonical name": "Bagirmi",
+    "Parent family": "Bongo-Bagirmi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "csu-bkr": {
+    "Canonical name": "Birri-Kresh",
+    "Parent family": "Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "csu-ecs": {
+    "Canonical name": "Eastern Central Sudanic",
+    "Parent family": "Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "csu-kab": {
+    "Canonical name": "Kaba",
+    "Parent family": "Bongo-Bagirmi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "csu-lnd": {
+    "Canonical name": "Lendu",
+    "Parent family": "Eastern Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "csu-maa": {
+    "Canonical name": "Mangbetu",
+    "Parent family": "Eastern Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "csu-mle": {
+    "Canonical name": "Mangbutu-Lese",
+    "Parent family": "Eastern Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "csu-mma": {
+    "Canonical name": "Moru-Madi",
+    "Parent family": "Eastern Central Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "csu-sar": {
+    "Canonical name": "Sara",
+    "Parent family": "Bongo-Bagirmi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "csu-val": {
+    "Canonical name": "Vale",
+    "Parent family": "Bongo-Bagirmi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "cus-cen": {
+    "Canonical name": "Central Cushitic",
+    "Parent family": "Cushitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "cus-eas": {
+    "Canonical name": "East Cushitic",
+    "Parent family": "Cushitic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 24
+  },
+  "cus-hec": {
+    "Canonical name": "Highland East Cushitic",
+    "Parent family": "East Cushitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "cus-sou": {
+    "Canonical name": "South Cushitic",
+    "Parent family": "Cushitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "dmn-bbu": {
+    "Canonical name": "Bisa-Busa",
+    "Parent family": "Eastern Mande",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 6
+  },
+  "dmn-emn": {
+    "Canonical name": "East Manding",
+    "Parent family": "Manding",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "dmn-jje": {
+    "Canonical name": "Jogo-Jeri",
+    "Parent family": "Manding-Jogo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "dmn-man": {
+    "Canonical name": "Manding",
+    "Parent family": "Manding-Mokole",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 4
+  },
+  "dmn-mda": {
+    "Canonical name": "Mano-Dan",
+    "Parent family": "Southeastern Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "dmn-mdc": {
+    "Canonical name": "Central Mande",
+    "Parent family": "Western Mande",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "dmn-mde": {
+    "Canonical name": "Eastern Mande",
+    "Parent family": "Mande",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "dmn-mdw": {
+    "Canonical name": "Western Mande",
+    "Parent family": "Mande",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "dmn-mjo": {
+    "Canonical name": "Manding-Jogo",
+    "Parent family": "Central Mande",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "dmn-mmo": {
+    "Canonical name": "Manding-Mokole",
+    "Parent family": "Manding-Vai",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "dmn-mnk": {
+    "Canonical name": "Maninka",
+    "Parent family": "East Manding",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "dmn-mnw": {
+    "Canonical name": "Northwestern Mande",
+    "Parent family": "Western Mande",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "dmn-mok": {
+    "Canonical name": "Mokole",
+    "Parent family": "Manding-Mokole",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "dmn-mse": {
+    "Canonical name": "Southeastern Mande",
+    "Parent family": "Eastern Mande",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "dmn-msw": {
+    "Canonical name": "Southwestern Mande",
+    "Parent family": "Western Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "dmn-mva": {
+    "Canonical name": "Manding-Vai",
+    "Parent family": "Manding-Jogo",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "dmn-nbe": {
+    "Canonical name": "Nwa-Beng",
+    "Parent family": "Southeastern Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "dmn-sam": {
+    "Canonical name": "Samo",
+    "Parent family": "Bisa-Busa",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "dmn-smg": {
+    "Canonical name": "Samogo",
+    "Parent family": "Northwestern Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "dmn-snb": {
+    "Canonical name": "Soninke-Bobo",
+    "Parent family": "Northwestern Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "dmn-sya": {
+    "Canonical name": "Susu-Yalunka",
+    "Parent family": "Central Mande",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "dmn-vak": {
+    "Canonical name": "Vai-Kono",
+    "Parent family": "Manding-Vai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "dmn-wmn": {
+    "Canonical name": "West Manding",
+    "Parent family": "Manding",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "esx-esk": {
+    "Canonical name": "Eskimo",
+    "Parent family": "Eskimo-Aleut",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "esx-inu": {
+    "Canonical name": "Inuit",
+    "Parent family": "Eskimo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "fiu-fin": {
+    "Canonical name": "Finnic",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "gmw-fri": {
+    "Canonical name": "Frisian",
+    "Parent family": "West Germanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "hmx-mie": {
+    "Canonical name": "Mien",
+    "Parent family": "Hmong-Mien",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "iir-nur": {
+    "Canonical name": "Nuristani",
+    "Parent family": "Indo-Iranian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "inc-bhi": {
+    "Canonical name": "Bhil",
+    "Parent family": "Central Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 23
+  },
+  "inc-cen": {
+    "Canonical name": "Central Indo-Aryan",
+    "Parent family": "Sauraseni Prakrit",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 7
+  },
+  "inc-dar": {
+    "Canonical name": "Dardic",
+    "Parent family": "Old Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "inc-eas": {
+    "Canonical name": "Eastern Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 53
+  },
+  "inc-hie": {
+    "Canonical name": "Eastern Hindi",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "inc-hiw": {
+    "Canonical name": "Western Hindi",
+    "Parent family": "Central Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "inc-hnd": {
+    "Canonical name": "Hindustani",
+    "Parent family": "Western Hindi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "inc-ins": {
+    "Canonical name": "Insular Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "inc-mid": {
+    "Canonical name": "Middle Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "inc-nor": {
+    "Canonical name": "Northern Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "inc-nwe": {
+    "Canonical name": "Northwestern Indo-Aryan",
+    "Parent family": "Sauraseni Prakrit",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "inc-old": {
+    "Canonical name": "Old Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "inc-pah": {
+    "Canonical name": "Pahari",
+    "Parent family": "Northern Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "inc-pan": {
+    "Canonical name": "Punjabi-Lahnda",
+    "Parent family": "Northwestern Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "inc-psu": {
+    "Canonical name": "Sauraseni Prakrit",
+    "Parent family": "Prakrit",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 1
+  },
+  "inc-rom": {
+    "Canonical name": "Romani",
+    "Parent family": "Sauraseni Prakrit",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "inc-snd": {
+    "Canonical name": "Sindhi",
+    "Parent family": "Northwestern Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "inc-sou": {
+    "Canonical name": "Southern Indo-Aryan",
+    "Parent family": "Indo-Aryan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "inc-wes": {
+    "Canonical name": "Western Indo-Aryan",
+    "Parent family": "Sauraseni Prakrit",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "ine-ana": {
+    "Canonical name": "Anatolian",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "ine-bsl": {
+    "Canonical name": "Balto-Slavic",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "ine-toc": {
+    "Canonical name": "Tocharian",
+    "Parent family": "Indo-European",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "ira-cen": {
+    "Canonical name": "Central Iranian",
+    "Parent family": "Iranian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "ira-csp": {
+    "Canonical name": "Caspian",
+    "Parent family": "Medo-Parthian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "ira-kms": {
+    "Canonical name": "Komisenian",
+    "Parent family": "Medo-Parthian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "ira-mny": {
+    "Canonical name": "Munji-Yidgha",
+    "Parent family": "Shughni-Yazghulami-Munji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "ira-mpr": {
+    "Canonical name": "Medo-Parthian",
+    "Parent family": "Northwestern Iranian",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 2
+  },
+  "ira-msh": {
+    "Canonical name": "Mazanderani-Shahmirzadi",
+    "Parent family": "Caspian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "ira-nei": {
+    "Canonical name": "Northeastern Iranian",
+    "Parent family": "Iranian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "ira-nwi": {
+    "Canonical name": "Northwestern Iranian",
+    "Parent family": "Western Iranian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "ira-orp": {
+    "Canonical name": "Ormuri-Parachi",
+    "Parent family": "Southeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "ira-pat": {
+    "Canonical name": "Pathan",
+    "Parent family": "Southeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "ira-sbc": {
+    "Canonical name": "Sogdo-Bactrian",
+    "Parent family": "Northeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "ira-sei": {
+    "Canonical name": "Southeastern Iranian",
+    "Parent family": "Iranian",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "ira-sgc": {
+    "Canonical name": "Sogdic",
+    "Parent family": "Sogdo-Bactrian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "ira-sgi": {
+    "Canonical name": "Sanglechi-Ishkashimi",
+    "Parent family": "Southeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "ira-shy": {
+    "Canonical name": "Shughni-Yazghulami",
+    "Parent family": "Shughni-Yazghulami-Munji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "ira-swi": {
+    "Canonical name": "Southwestern Iranian",
+    "Parent family": "Western Iranian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 19
+  },
+  "ira-sym": {
+    "Canonical name": "Shughni-Yazghulami-Munji",
+    "Parent family": "Southeastern Iranian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "ira-wes": {
+    "Canonical name": "Western Iranian",
+    "Parent family": "Iranian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "ira-zgr": {
+    "Canonical name": "Zaza-Gorani",
+    "Parent family": "Medo-Parthian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "jpx-ryu": {
+    "Canonical name": "Ryukyuan",
+    "Parent family": "Japonic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "khi-kal": {
+    "Canonical name": "Kalahari Khoe",
+    "Parent family": "Khoe",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "khi-khk": {
+    "Canonical name": "Khoekhoe",
+    "Parent family": "Khoe",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "khi-kho": {
+    "Canonical name": "Khoe",
+    "Parent family": "Khoe-Kwadi",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "khi-kkw": {
+    "Canonical name": "Khoe-Kwadi",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "khi-kxa": {
+    "Canonical name": "Kx'a",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "khi-tuu": {
+    "Canonical name": "Tuu",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "kro-aiz": {
+    "Canonical name": "Aizi",
+    "Parent family": "Kru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "kro-bet": {
+    "Canonical name": "B\u00e9t\u00e9",
+    "Parent family": "Eastern Kru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "kro-did": {
+    "Canonical name": "Dida",
+    "Parent family": "Eastern Kru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "kro-ekr": {
+    "Canonical name": "Eastern Kru",
+    "Parent family": "Kru",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "kro-grb": {
+    "Canonical name": "Grebo",
+    "Parent family": "Western Kru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "kro-wee": {
+    "Canonical name": "Wee",
+    "Parent family": "Western Kru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "kro-wkr": {
+    "Canonical name": "Western Kru",
+    "Parent family": "Kru",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 5
+  },
+  "map-ata": {
+    "Canonical name": "Atayalic",
+    "Parent family": "Austronesian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "mkh-asl": {
+    "Canonical name": "Aslian",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 19
+  },
+  "mkh-ban": {
+    "Canonical name": "Bahnaric",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 29
+  },
+  "mkh-kat": {
+    "Canonical name": "Katuic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 17
+  },
+  "mkh-khm": {
+    "Canonical name": "Khmuic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "mkh-kmr": {
+    "Canonical name": "Khmeric",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "mkh-mnc": {
+    "Canonical name": "Monic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "mkh-mng": {
+    "Canonical name": "Mangic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "mkh-nbn": {
+    "Canonical name": "North Bahnaric",
+    "Parent family": "Bahnaric",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "mkh-pal": {
+    "Canonical name": "Palaungic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 30
+  },
+  "mkh-pea": {
+    "Canonical name": "Pearic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "mkh-pkn": {
+    "Canonical name": "Pakanic",
+    "Parent family": "Mangic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "mkh-vie": {
+    "Canonical name": "Vietic",
+    "Parent family": "Mon-Khmer",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "nai-cat": {
+    "Canonical name": "Catawban",
+    "Parent family": "Siouan-Catawban",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nai-chu": {
+    "Canonical name": "Chumashan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nai-ckn": {
+    "Canonical name": "Chinookan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nai-coo": {
+    "Canonical name": "Coosan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nai-ker": {
+    "Canonical name": "Keresan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nai-klp": {
+    "Canonical name": "Kalapuyan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nai-kta": {
+    "Canonical name": "Kiowa-Tanoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nai-len": {
+    "Canonical name": "Lencan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nai-mdu": {
+    "Canonical name": "Maiduan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nai-min": {
+    "Canonical name": "Misumalpan",
+    "Parent family": "Macro-Chibchan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nai-miz": {
+    "Canonical name": "Mixe-Zoquean",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "nai-mus": {
+    "Canonical name": "Muskogean",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nai-pak": {
+    "Canonical name": "Pakawan",
+    "Parent family": "Hokan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nai-pal": {
+    "Canonical name": "Palaihnihan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nai-plp": {
+    "Canonical name": "Plateau Penutian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 3
+  },
+  "nai-pom": {
+    "Canonical name": "Pomoan",
+    "Parent family": "Hokan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nai-sca": {
+    "Canonical name": "Siouan-Catawban",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "nai-shp": {
+    "Canonical name": "Sahaptian",
+    "Parent family": "Plateau Penutian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nai-shs": {
+    "Canonical name": "Shastan",
+    "Parent family": "Hokan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nai-tot": {
+    "Canonical name": "Totozoquean",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "nai-tqn": {
+    "Canonical name": "Tequistlatecan",
+    "Parent family": "Hokan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nai-tsi": {
+    "Canonical name": "Tsimshianic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nai-ttn": {
+    "Canonical name": "Totonacan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "nai-utn": {
+    "Canonical name": "Utian",
+    "Parent family": "Yok-Utian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nai-wtq": {
+    "Canonical name": "Wintuan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nai-xin": {
+    "Canonical name": "Xincan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nai-yok": {
+    "Canonical name": "Yokutsan",
+    "Parent family": "Yok-Utian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nai-you": {
+    "Canonical name": "Yok-Utian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 8
+  },
+  "nai-yuc": {
+    "Canonical name": "Yuman-Cochim\u00ed",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "ngf-fin": {
+    "Canonical name": "Finisterre",
+    "Parent family": "Trans-New Guinea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 40
+  },
+  "ngf-mad": {
+    "Canonical name": "Madang",
+    "Parent family": "Trans-New Guinea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 96
+  },
+  "ngf-okk": {
+    "Canonical name": "Ok",
+    "Parent family": "Trans-New Guinea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "ngf-sbh": {
+    "Canonical name": "South Bird's Head",
+    "Parent family": "Trans-New Guinea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-alu": {
+    "Canonical name": "Alumic",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-bas": {
+    "Canonical name": "Basa",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-bbe": {
+    "Canonical name": "Eastern Beboid",
+    "Parent family": "Beboid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nic-bco": {
+    "Canonical name": "Benue-Congo",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 4
+  },
+  "nic-bcr": {
+    "Canonical name": "Bantoid-Cross",
+    "Parent family": "Benue-Congo",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "nic-bdn": {
+    "Canonical name": "Northern Bantoid",
+    "Parent family": "Bantoid",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "nic-bds": {
+    "Canonical name": "Southern Bantoid",
+    "Parent family": "Bantoid",
+    "Other names": [],
+    "Subfamilies": 8,
+    "Languages": 5
+  },
+  "nic-beb": {
+    "Canonical name": "Beboid",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "nic-ben": {
+    "Canonical name": "Bendi",
+    "Parent family": "Bantoid-Cross",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-beo": {
+    "Canonical name": "Beromic",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-bod": {
+    "Canonical name": "Bantoid",
+    "Parent family": "Bantoid-Cross",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "nic-buk": {
+    "Canonical name": "Buli-Koma",
+    "Parent family": "Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-bwa": {
+    "Canonical name": "Bwa",
+    "Parent family": "Gur",
+    "Other names": [
+      "Bwamu",
+      "Bomu"
+    ],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-cde": {
+    "Canonical name": "Central Delta",
+    "Parent family": "Cross River",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-cri": {
+    "Canonical name": "Cross River",
+    "Parent family": "Bantoid-Cross",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "nic-dag": {
+    "Canonical name": "Dagbani",
+    "Parent family": "Western Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-dak": {
+    "Canonical name": "Dakoid",
+    "Parent family": "Northern Bantoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-dge": {
+    "Canonical name": "Escarpment Dogon",
+    "Parent family": "Dogon",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-dgw": {
+    "Canonical name": "West Dogon",
+    "Parent family": "Dogon",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-eko": {
+    "Canonical name": "Ekoid",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-eov": {
+    "Canonical name": "Eastern Oti-Volta",
+    "Parent family": "Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-fru": {
+    "Canonical name": "Furu",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-gne": {
+    "Canonical name": "Eastern Gurunsi",
+    "Parent family": "Gurunsi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nic-gnn": {
+    "Canonical name": "Northern Gurunsi",
+    "Parent family": "Gurunsi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-gns": {
+    "Canonical name": "Gurunsi",
+    "Parent family": "Gur",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "nic-gnw": {
+    "Canonical name": "Western Gurunsi",
+    "Parent family": "Gurunsi",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 6
+  },
+  "nic-gre": {
+    "Canonical name": "Eastern Grassfields",
+    "Parent family": "Grassfields",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "nic-grf": {
+    "Canonical name": "Grassfields",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 5
+  },
+  "nic-grm": {
+    "Canonical name": "Gurma",
+    "Parent family": "Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nic-grs": {
+    "Canonical name": "Southwest Grassfields",
+    "Parent family": "Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-gur": {
+    "Canonical name": "Gur",
+    "Parent family": "Savanna",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 10
+  },
+  "nic-ief": {
+    "Canonical name": "Ibibio-Efik",
+    "Parent family": "Lower Cross River",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "nic-jer": {
+    "Canonical name": "Jera",
+    "Parent family": "East Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "nic-jkn": {
+    "Canonical name": "Jukunoid",
+    "Parent family": "Platoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "nic-jrn": {
+    "Canonical name": "Jarawan",
+    "Parent family": "Mbam",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 11
+  },
+  "nic-jrw": {
+    "Canonical name": "Jarawa",
+    "Parent family": "Jarawan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-kam": {
+    "Canonical name": "Kambari",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nic-kau": {
+    "Canonical name": "Kauru",
+    "Parent family": "East Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "nic-kmk": {
+    "Canonical name": "Kamuku",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-kne": {
+    "Canonical name": "East Kainji",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "nic-knj": {
+    "Canonical name": "Kainji",
+    "Parent family": "Platoid",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 3
+  },
+  "nic-knn": {
+    "Canonical name": "Northwest Kainji",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-ktl": {
+    "Canonical name": "Katloid",
+    "Parent family": "Niger-Congo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-lcr": {
+    "Canonical name": "Lower Cross River",
+    "Parent family": "Cross River",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 11
+  },
+  "nic-mam": {
+    "Canonical name": "Mamfe",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-mba": {
+    "Canonical name": "Mbam",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 2
+  },
+  "nic-mbc": {
+    "Canonical name": "Mba",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-mbw": {
+    "Canonical name": "West Mbam",
+    "Parent family": "Mbam",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-mmb": {
+    "Canonical name": "Mambiloid",
+    "Parent family": "Northern Bantoid",
+    "Other names": [
+      "North Bantoid"
+    ],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "nic-mom": {
+    "Canonical name": "Momo",
+    "Parent family": "Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-mre": {
+    "Canonical name": "Mor\u00e9",
+    "Parent family": "Western Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-ngd": {
+    "Canonical name": "Ngbandi",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-nge": {
+    "Canonical name": "Ngemba",
+    "Parent family": "Eastern Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-ngk": {
+    "Canonical name": "Ngbaka",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "nic-nin": {
+    "Canonical name": "Ninzic",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nic-nka": {
+    "Canonical name": "Nkambe",
+    "Parent family": "Eastern Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nic-nkb": {
+    "Canonical name": "Baka",
+    "Parent family": "Western Ngbaka",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-nke": {
+    "Canonical name": "Eastern Ngbaka",
+    "Parent family": "Ngbaka",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-nkg": {
+    "Canonical name": "Gbanziri",
+    "Parent family": "Western Ngbaka",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-nkk": {
+    "Canonical name": "Kpala",
+    "Parent family": "Western Ngbaka",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-nkm": {
+    "Canonical name": "Mbaka",
+    "Parent family": "Western Ngbaka",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-nkw": {
+    "Canonical name": "Western Ngbaka",
+    "Parent family": "Ngbaka",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 0
+  },
+  "nic-npd": {
+    "Canonical name": "North Plateau Dogon",
+    "Parent family": "Dogon",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-nun": {
+    "Canonical name": "Nun",
+    "Parent family": "Eastern Grassfields",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nic-nwa": {
+    "Canonical name": "Nanga-Walo",
+    "Parent family": "Dogon",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-ogo": {
+    "Canonical name": "Ogoni",
+    "Parent family": "Cross River",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-ovo": {
+    "Canonical name": "Oti-Volta",
+    "Parent family": "Gur",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 1
+  },
+  "nic-pla": {
+    "Canonical name": "Platoid",
+    "Parent family": "Benue-Congo",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "nic-plc": {
+    "Canonical name": "Central Plateau",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 23
+  },
+  "nic-pld": {
+    "Canonical name": "Plains Dogon",
+    "Parent family": "Dogon",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-ple": {
+    "Canonical name": "East Plateau",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "nic-pls": {
+    "Canonical name": "South Plateau",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-plt": {
+    "Canonical name": "Plateau",
+    "Parent family": "Platoid",
+    "Other names": [],
+    "Subfamilies": 8,
+    "Languages": 3
+  },
+  "nic-ras": {
+    "Canonical name": "Rashad",
+    "Parent family": "Niger-Congo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nic-rnc": {
+    "Canonical name": "Central Ring",
+    "Parent family": "Ring",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nic-rng": {
+    "Canonical name": "Ring",
+    "Parent family": "Grassfields",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "nic-rnn": {
+    "Canonical name": "Northern Ring",
+    "Parent family": "Ring",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-rnw": {
+    "Canonical name": "Western Ring",
+    "Parent family": "Ring",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-ser": {
+    "Canonical name": "Sere",
+    "Parent family": "Ubangian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-shi": {
+    "Canonical name": "Shiroro",
+    "Parent family": "Kainji",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-sis": {
+    "Canonical name": "Sisaala",
+    "Parent family": "Western Gurunsi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-tar": {
+    "Canonical name": "Tarokoid",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "nic-tiv": {
+    "Canonical name": "Tivoid",
+    "Parent family": "Southern Bantoid",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "nic-tvc": {
+    "Canonical name": "Central Tivoid",
+    "Parent family": "Tivoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "nic-tvn": {
+    "Canonical name": "Northern Tivoid",
+    "Parent family": "Tivoid",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "nic-ubg": {
+    "Canonical name": "Ubangian",
+    "Parent family": "Volta-Congo",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 1
+  },
+  "nic-uce": {
+    "Canonical name": "East-West Upper Cross River",
+    "Parent family": "Upper Cross River",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "nic-ucn": {
+    "Canonical name": "North-South Upper Cross River",
+    "Parent family": "Upper Cross River",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nic-ucr": {
+    "Canonical name": "Upper Cross River",
+    "Parent family": "Cross River",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 7
+  },
+  "nic-vco": {
+    "Canonical name": "Volta-Congo",
+    "Parent family": "Atlantic-Congo",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 1
+  },
+  "nic-wov": {
+    "Canonical name": "Western Oti-Volta",
+    "Parent family": "Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "nic-ykb": {
+    "Canonical name": "Yukubenic",
+    "Parent family": "Plateau",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-ymb": {
+    "Canonical name": "Yambasa",
+    "Parent family": "Mbam",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "nic-yon": {
+    "Canonical name": "Yom-Nawdm",
+    "Parent family": "Oti-Volta",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nub-hil": {
+    "Canonical name": "Hill Nubian",
+    "Parent family": "Nubian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "nur-nor": {
+    "Canonical name": "Northern Nuristani",
+    "Parent family": "Nuristani",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "nur-sou": {
+    "Canonical name": "Southern Nuristani",
+    "Parent family": "Nuristani",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "omq-cha": {
+    "Canonical name": "Chatino",
+    "Parent family": "Zapotecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "omq-chi": {
+    "Canonical name": "Chinantecan",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "omq-cui": {
+    "Canonical name": "Cuicatec",
+    "Parent family": "Mixtecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "omq-maz": {
+    "Canonical name": "Mazatecan",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "omq-mix": {
+    "Canonical name": "Mixtecan",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "omq-mxt": {
+    "Canonical name": "Mixtec",
+    "Parent family": "Mixtecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 54
+  },
+  "omq-otp": {
+    "Canonical name": "Oto-Pamean",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "omq-pop": {
+    "Canonical name": "Popolocan",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "omq-tri": {
+    "Canonical name": "Trique",
+    "Parent family": "Mixtecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "omq-zap": {
+    "Canonical name": "Zapotecan",
+    "Parent family": "Oto-Manguean",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 39
+  },
+  "omq-zpc": {
+    "Canonical name": "Zapotec",
+    "Parent family": "Zapotecan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 21
+  },
+  "omv-aro": {
+    "Canonical name": "Aroid",
+    "Parent family": "Omotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "omv-diz": {
+    "Canonical name": "Dizoid",
+    "Parent family": "Omotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "omv-eom": {
+    "Canonical name": "East Ometo",
+    "Parent family": "Ometo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "omv-gon": {
+    "Canonical name": "Gonga",
+    "Parent family": "Omotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "omv-mao": {
+    "Canonical name": "Mao",
+    "Parent family": "Omotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "omv-nom": {
+    "Canonical name": "North Ometo",
+    "Parent family": "Ometo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "omv-ome": {
+    "Canonical name": "Ometo",
+    "Parent family": "Omotic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "oto-otm": {
+    "Canonical name": "Otomi",
+    "Parent family": "Otomian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "paa-arf": {
+    "Canonical name": "Arafundi",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "paa-asa": {
+    "Canonical name": "Arai-Samaia",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "paa-bng": {
+    "Canonical name": "Baining",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "paa-brd": {
+    "Canonical name": "Border",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 16
+  },
+  "paa-egb": {
+    "Canonical name": "East Geelvink Bay",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "paa-eng": {
+    "Canonical name": "Engan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "paa-iwm": {
+    "Canonical name": "Iwam",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "paa-kag": {
+    "Canonical name": "Kainantu-Goroka",
+    "Parent family": "Trans-New Guinea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 25
+  },
+  "paa-kiw": {
+    "Canonical name": "Kiwaian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "paa-kut": {
+    "Canonical name": "Kutubuan",
+    "Parent family": "Papuan Gulf",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "paa-kwm": {
+    "Canonical name": "Kwomtari",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "paa-lkp": {
+    "Canonical name": "Lakes Plain",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 19
+  },
+  "paa-lsp": {
+    "Canonical name": "Lower Sepik",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "paa-mai": {
+    "Canonical name": "Mairasi",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "paa-msk": {
+    "Canonical name": "Sko",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "paa-nbo": {
+    "Canonical name": "North Bougainville",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "paa-nha": {
+    "Canonical name": "North Halmahera",
+    "Parent family": "West Papuan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 17
+  },
+  "paa-nim": {
+    "Canonical name": "Nimboran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "paa-pag": {
+    "Canonical name": "Papuan Gulf",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "paa-pau": {
+    "Canonical name": "Pauwasi",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "paa-ram": {
+    "Canonical name": "Ramu",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "paa-sbo": {
+    "Canonical name": "South Bougainville",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "paa-sen": {
+    "Canonical name": "Sentani",
+    "Parent family": "West Papuan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "paa-spk": {
+    "Canonical name": "Sepik",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 43
+  },
+  "paa-tkw": {
+    "Canonical name": "Tor-Kwerba",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 24
+  },
+  "paa-wpa": {
+    "Canonical name": "West Papuan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 6
+  },
+  "paa-yam": {
+    "Canonical name": "Yam",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "paa-yua": {
+    "Canonical name": "Yuat",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "phi-kal": {
+    "Canonical name": "Kalamian",
+    "Parent family": "Philippine",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "poz-aay": {
+    "Canonical name": "Admiralty Islands",
+    "Parent family": "Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "poz-bnn": {
+    "Canonical name": "North Bornean",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 12
+  },
+  "poz-bop": {
+    "Canonical name": "Borneo-Philippines",
+    "Parent family": "Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 0
+  },
+  "poz-bre": {
+    "Canonical name": "East Barito",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "poz-brw": {
+    "Canonical name": "West Barito",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "poz-btk": {
+    "Canonical name": "Bungku-Tolaki",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "poz-cet": {
+    "Canonical name": "Central-Eastern Malayo-Polynesian",
+    "Parent family": "Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 42
+  },
+  "poz-clb": {
+    "Canonical name": "Celebic",
+    "Parent family": "Sunda-Sulawesi",
+    "Other names": [],
+    "Subfamilies": 6,
+    "Languages": 0
+  },
+  "poz-cln": {
+    "Canonical name": "New Caledonian",
+    "Parent family": "Central-Eastern Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 30
+  },
+  "poz-cma": {
+    "Canonical name": "Central Maluku",
+    "Parent family": "Central-Eastern Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 46
+  },
+  "poz-hce": {
+    "Canonical name": "Halmahera-Cenderawasih",
+    "Parent family": "Eastern Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 40
+  },
+  "poz-kal": {
+    "Canonical name": "Kaili-Pamona",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "poz-lgx": {
+    "Canonical name": "Lampungic",
+    "Parent family": "Sunda-Sulawesi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "poz-mcm": {
+    "Canonical name": "Malayo-Chamic",
+    "Parent family": "Malayo-Sumbawan",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 4
+  },
+  "poz-mic": {
+    "Canonical name": "Micronesian",
+    "Parent family": "Central-Eastern Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 20
+  },
+  "poz-mly": {
+    "Canonical name": "Malayic",
+    "Parent family": "Malayo-Chamic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 28
+  },
+  "poz-msa": {
+    "Canonical name": "Malayo-Sumbawan",
+    "Parent family": "Sunda-Sulawesi",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 4
+  },
+  "poz-mun": {
+    "Canonical name": "Muna-Buton",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "poz-nws": {
+    "Canonical name": "Northwest Sumatran",
+    "Parent family": "Sunda-Sulawesi",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 5
+  },
+  "poz-occ": {
+    "Canonical name": "Central-Eastern Oceanic",
+    "Parent family": "Oceanic",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 11
+  },
+  "poz-oce": {
+    "Canonical name": "Oceanic",
+    "Parent family": "Eastern Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 35
+  },
+  "poz-ocw": {
+    "Canonical name": "Western Oceanic",
+    "Parent family": "Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 227
+  },
+  "poz-pep": {
+    "Canonical name": "Eastern Polynesian",
+    "Parent family": "Nuclear Polynesian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "poz-pnp": {
+    "Canonical name": "Nuclear Polynesian",
+    "Parent family": "Polynesian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 23
+  },
+  "poz-pol": {
+    "Canonical name": "Polynesian",
+    "Parent family": "Central-Eastern Oceanic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 4
+  },
+  "poz-san": {
+    "Canonical name": "Sabahan",
+    "Parent family": "North Bornean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 36
+  },
+  "poz-sbj": {
+    "Canonical name": "Sama-Bajaw",
+    "Parent family": "Borneo-Philippines",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "poz-slb": {
+    "Canonical name": "Saluan-Banggai",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "poz-sls": {
+    "Canonical name": "Southeast Solomonic",
+    "Parent family": "Central-Eastern Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 25
+  },
+  "poz-ssw": {
+    "Canonical name": "South Sulawesi",
+    "Parent family": "Sunda-Sulawesi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "poz-sus": {
+    "Canonical name": "Sunda-Sulawesi",
+    "Parent family": "Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 9
+  },
+  "poz-swa": {
+    "Canonical name": "North Sarawakan",
+    "Parent family": "North Bornean",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 24
+  },
+  "poz-tim": {
+    "Canonical name": "Timoric",
+    "Parent family": "Central-Eastern Malayo-Polynesian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 40
+  },
+  "poz-tot": {
+    "Canonical name": "Tomini-Tolitoli",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "poz-vnc": {
+    "Canonical name": "North-Central Vanuatu",
+    "Parent family": "Central-Eastern Oceanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 88
+  },
+  "poz-wot": {
+    "Canonical name": "Wotu-Wolio",
+    "Parent family": "Celebic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "qfa-adc": {
+    "Canonical name": "Central Great Andamanese",
+    "Parent family": "Great Andamanese",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "qfa-adm": {
+    "Canonical name": "Great Andamanese",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "qfa-adn": {
+    "Canonical name": "Northern Great Andamanese",
+    "Parent family": "Great Andamanese",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "qfa-ads": {
+    "Canonical name": "Southern Great Andamanese",
+    "Parent family": "Great Andamanese",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "qfa-bet": {
+    "Canonical name": "Be-Tai",
+    "Parent family": "Kra-Dai",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "qfa-buy": {
+    "Canonical name": "Buyang",
+    "Parent family": "Kra",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "qfa-cka": {
+    "Canonical name": "Chukotko-Kamchatkan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "qfa-dgn": {
+    "Canonical name": "Dogon",
+    "Parent family": "Niger-Congo",
+    "Other names": [],
+    "Subfamilies": 5,
+    "Languages": 3
+  },
+  "qfa-dny": {
+    "Canonical name": "Dene-Yeniseian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "qfa-gel": {
+    "Canonical name": "Gelao",
+    "Parent family": "Kra",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "qfa-hur": {
+    "Canonical name": "Hurro-Urartian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "qfa-kad": {
+    "Canonical name": "Kadu",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "qfa-kms": {
+    "Canonical name": "Kam-Sui",
+    "Parent family": "Kra-Dai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "qfa-kor": {
+    "Canonical name": "Koreanic",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 11
+  },
+  "qfa-kra": {
+    "Canonical name": "Kra",
+    "Parent family": "Kra-Dai",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 6
+  },
+  "qfa-lic": {
+    "Canonical name": "Hlai",
+    "Parent family": "Kra-Dai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "qfa-mal": {
+    "Canonical name": "Left May",
+    "Parent family": "Arai-Samaia",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "qfa-mch": {
+    "Canonical name": "Macro-Chibchan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "qfa-onb": {
+    "Canonical name": "Be",
+    "Parent family": "Be-Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "qfa-ong": {
+    "Canonical name": "Ongan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "qfa-sub": {
+    "Canonical name": "substrate",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 0
+  },
+  "qfa-tak": {
+    "Canonical name": "Kra-Dai",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 4,
+    "Languages": 7
+  },
+  "qfa-tap": {
+    "Canonical name": "Timor-Alor-Pantar",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "qfa-tor": {
+    "Canonical name": "Torricelli",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 57
+  },
+  "qfa-tyn": {
+    "Canonical name": "Tyrsenian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "qfa-yen": {
+    "Canonical name": "Yeniseian",
+    "Parent family": "Dene-Yeniseian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "qfa-yuk": {
+    "Canonical name": "Yukaghir",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "roa-eas": {
+    "Canonical name": "Eastern Romance",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "roa-git": {
+    "Canonical name": "Gallo-Italic",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "roa-ibe": {
+    "Canonical name": "West Iberian",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 17
+  },
+  "roa-itd": {
+    "Canonical name": "Italo-Dalmatian",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "roa-oil": {
+    "Canonical name": "O\u00efl",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 16
+  },
+  "roa-rhe": {
+    "Canonical name": "Rhaeto-Romance",
+    "Parent family": "Romance",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-ara": {
+    "Canonical name": "Araucanian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-aym": {
+    "Canonical name": "Aymaran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-bar": {
+    "Canonical name": "Barbacoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "sai-bor": {
+    "Canonical name": "Boran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-cah": {
+    "Canonical name": "Cahuapanan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-car": {
+    "Canonical name": "Cariban",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 37
+  },
+  "sai-cer": {
+    "Canonical name": "Cerrado",
+    "Parent family": "J\u00ea",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "sai-chc": {
+    "Canonical name": "Chocoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sai-cho": {
+    "Canonical name": "Chonan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-cje": {
+    "Canonical name": "Central J\u00ea",
+    "Parent family": "Cerrado",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sai-cpc": {
+    "Canonical name": "Chapacuran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sai-crn": {
+    "Canonical name": "Charruan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-ctc": {
+    "Canonical name": "Catacaoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-guc": {
+    "Canonical name": "Guaicuruan",
+    "Parent family": "Mataco-Guaicuru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sai-guh": {
+    "Canonical name": "Guahiban",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sai-har": {
+    "Canonical name": "Har\u00e1kmbut",
+    "Parent family": "Har\u00e1kmbut-Katukinan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-hkt": {
+    "Canonical name": "Har\u00e1kmbut-Katukinan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sai-hoc": {
+    "Canonical name": "Huitoto-Ocaina",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "sai-hrp": {
+    "Canonical name": "Huarpean",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-jee": {
+    "Canonical name": "J\u00ea",
+    "Parent family": "Macro-J\u00ea",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "sai-jir": {
+    "Canonical name": "Jirajaran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-jiv": {
+    "Canonical name": "Jivaroan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sai-ktk": {
+    "Canonical name": "Katukinan",
+    "Parent family": "Har\u00e1kmbut-Katukinan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-mas": {
+    "Canonical name": "Mascoian",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sai-mgc": {
+    "Canonical name": "Mataco-Guaicuru",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sai-mje": {
+    "Canonical name": "Macro-J\u00ea",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 16
+  },
+  "sai-mtc": {
+    "Canonical name": "Matacoan",
+    "Parent family": "Mataco-Guaicuru",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sai-mur": {
+    "Canonical name": "Muran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "sai-nad": {
+    "Canonical name": "Nadahup",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sai-nje": {
+    "Canonical name": "Northern J\u00ea",
+    "Parent family": "Cerrado",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sai-nmk": {
+    "Canonical name": "Nambikwaran",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sai-otm": {
+    "Canonical name": "Otomacoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-pan": {
+    "Canonical name": "Panoan",
+    "Parent family": "Pano-Tacanan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "sai-pat": {
+    "Canonical name": "Pano-Tacanan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sai-sje": {
+    "Canonical name": "Southern J\u00ea",
+    "Parent family": "J\u00ea",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-tac": {
+    "Canonical name": "Tacanan",
+    "Parent family": "Pano-Tacanan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sai-tuc": {
+    "Canonical name": "Tucanoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 26
+  },
+  "sai-tyu": {
+    "Canonical name": "Ticuna-Yuri",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-ucp": {
+    "Canonical name": "Uru-Chipaya",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "sai-wic": {
+    "Canonical name": "Wich\u00ed",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-wit": {
+    "Canonical name": "Witotoan",
+    "Parent family": "Huitoto-Ocaina",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sai-ynm": {
+    "Canonical name": "Yanomami",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sai-zam": {
+    "Canonical name": "Zamucoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sai-zap": {
+    "Canonical name": "Zaparoan",
+    "Parent family": "",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sdv-bri": {
+    "Canonical name": "Bari",
+    "Parent family": "Eastern Nilotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sdv-daj": {
+    "Canonical name": "Daju",
+    "Parent family": "Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sdv-dnu": {
+    "Canonical name": "Dinka-Nuer",
+    "Parent family": "Western Nilotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sdv-eje": {
+    "Canonical name": "Eastern Jebel",
+    "Parent family": "Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sdv-kln": {
+    "Canonical name": "Kalenjin",
+    "Parent family": "Southern Nilotic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 4
+  },
+  "sdv-lma": {
+    "Canonical name": "Lotuko-Maa",
+    "Parent family": "Eastern Nilotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sdv-lon": {
+    "Canonical name": "Northern Luo",
+    "Parent family": "Luo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sdv-los": {
+    "Canonical name": "Southern Luo",
+    "Parent family": "Luo",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sdv-luo": {
+    "Canonical name": "Luo",
+    "Parent family": "Western Nilotic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sdv-nes": {
+    "Canonical name": "Northern Eastern Sudanic",
+    "Parent family": "Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "sdv-nie": {
+    "Canonical name": "Eastern Nilotic",
+    "Parent family": "Nilotic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "sdv-nil": {
+    "Canonical name": "Nilotic",
+    "Parent family": "Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "sdv-nis": {
+    "Canonical name": "Southern Nilotic",
+    "Parent family": "Nilotic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "sdv-niw": {
+    "Canonical name": "Western Nilotic",
+    "Parent family": "Nilotic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "sdv-nma": {
+    "Canonical name": "Nandi-Markweta",
+    "Parent family": "Kalenjin",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "sdv-nyi": {
+    "Canonical name": "Nyima",
+    "Parent family": "Northern Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sdv-tmn": {
+    "Canonical name": "Taman",
+    "Parent family": "Northern Eastern Sudanic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sdv-ttu": {
+    "Canonical name": "Teso-Turkana",
+    "Parent family": "Eastern Nilotic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sem-ara": {
+    "Canonical name": "Aramaic",
+    "Parent family": "Northwest Semitic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "sem-arb": {
+    "Canonical name": "Arabic",
+    "Parent family": "Central Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "sem-are": {
+    "Canonical name": "Eastern Aramaic",
+    "Parent family": "Aramaic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 2
+  },
+  "sem-arw": {
+    "Canonical name": "Western Aramaic",
+    "Parent family": "Aramaic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sem-ase": {
+    "Canonical name": "Southeastern Aramaic",
+    "Parent family": "Eastern Aramaic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sem-can": {
+    "Canonical name": "Canaanite",
+    "Parent family": "Northwest Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "sem-cen": {
+    "Canonical name": "Central Semitic",
+    "Parent family": "West Semitic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 7
+  },
+  "sem-cna": {
+    "Canonical name": "Central Neo-Aramaic",
+    "Parent family": "Eastern Aramaic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sem-eas": {
+    "Canonical name": "East Semitic",
+    "Parent family": "Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sem-eth": {
+    "Canonical name": "Ethiopian Semitic",
+    "Parent family": "West Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "sem-nna": {
+    "Canonical name": "Northeastern Neo-Aramaic",
+    "Parent family": "Eastern Aramaic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sem-nwe": {
+    "Canonical name": "Northwest Semitic",
+    "Parent family": "Central Semitic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 2
+  },
+  "sem-osa": {
+    "Canonical name": "Old South Arabian",
+    "Parent family": "Central Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sem-sar": {
+    "Canonical name": "Modern South Arabian",
+    "Parent family": "West Semitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sem-wes": {
+    "Canonical name": "West Semitic",
+    "Parent family": "Semitic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "sgn-fsl": {
+    "Canonical name": "French Sign Languages",
+    "Parent family": "sign",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sgn-gsl": {
+    "Canonical name": "German Sign Languages",
+    "Parent family": "sign",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sgn-jsl": {
+    "Canonical name": "Japanese Sign Languages",
+    "Parent family": "sign",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sio-dhe": {
+    "Canonical name": "Dhegihan",
+    "Parent family": "Mississippi Valley Siouan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sio-dkt": {
+    "Canonical name": "Dakotan",
+    "Parent family": "Mississippi Valley Siouan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sio-mor": {
+    "Canonical name": "Missouri River Siouan",
+    "Parent family": "Siouan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sio-msv": {
+    "Canonical name": "Mississippi Valley Siouan",
+    "Parent family": "Siouan",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 3
+  },
+  "sio-ohv": {
+    "Canonical name": "Ohio Valley Siouan",
+    "Parent family": "Siouan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-aao": {
+    "Canonical name": "Ao",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "sit-alm": {
+    "Canonical name": "Almora",
+    "Parent family": "West Himalayish",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-bdi": {
+    "Canonical name": "Bodish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "sit-dhi": {
+    "Canonical name": "Dhimalish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-ebo": {
+    "Canonical name": "East Bodish",
+    "Parent family": "Bodish",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "sit-gma": {
+    "Canonical name": "Greater Magaric",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 8
+  },
+  "sit-gsi": {
+    "Canonical name": "Greater Siangic",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-hrs": {
+    "Canonical name": "Hrusish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-jnp": {
+    "Canonical name": "Jingphoic",
+    "Parent family": "Kachin-Luic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-jpl": {
+    "Canonical name": "Kachin-Luic",
+    "Parent family": "Sal",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sit-kch": {
+    "Canonical name": "Konyak-Chang",
+    "Parent family": "Konyak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "sit-kha": {
+    "Canonical name": "Kham",
+    "Parent family": "Greater Magaric",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-khb": {
+    "Canonical name": "Kho-Bwa",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "sit-kic": {
+    "Canonical name": "Central Kiranti",
+    "Parent family": "Kiranti",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sit-kie": {
+    "Canonical name": "Eastern Kiranti",
+    "Parent family": "Kiranti",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 13
+  },
+  "sit-kin": {
+    "Canonical name": "Kinnauri",
+    "Parent family": "West Himalayish",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-kir": {
+    "Canonical name": "Kiranti",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 1
+  },
+  "sit-kiw": {
+    "Canonical name": "Western Kiranti",
+    "Parent family": "Kiranti",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "sit-kon": {
+    "Canonical name": "Konyak",
+    "Parent family": "Sal",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sit-kyk": {
+    "Canonical name": "Kyirong-Kagate",
+    "Parent family": "Tibetic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-lab": {
+    "Canonical name": "Ladakhi-Balti",
+    "Parent family": "Tibetic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-las": {
+    "Canonical name": "Lahuli-Spiti",
+    "Parent family": "Tibetic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-luu": {
+    "Canonical name": "Luish",
+    "Parent family": "Kachin-Luic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "sit-mar": {
+    "Canonical name": "Maringic",
+    "Parent family": "Tangkhul-Maring",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sit-mdz": {
+    "Canonical name": "Midzu",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sit-mnz": {
+    "Canonical name": "Mondzish",
+    "Parent family": "Lolo-Burmese",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-mru": {
+    "Canonical name": "Mruic",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sit-nax": {
+    "Canonical name": "Naic",
+    "Parent family": "Burmo-Qiangic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-new": {
+    "Canonical name": "Newaric",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-nng": {
+    "Canonical name": "Nungish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-qia": {
+    "Canonical name": "Qiangic",
+    "Parent family": "Burmo-Qiangic",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 13
+  },
+  "sit-rgy": {
+    "Canonical name": "Rgyalrongic",
+    "Parent family": "Qiangic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "sit-tam": {
+    "Canonical name": "Tamangic",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 16
+  },
+  "sit-tan": {
+    "Canonical name": "Tani",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "sit-tib": {
+    "Canonical name": "Tibetic",
+    "Parent family": "Bodish",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 15
+  },
+  "sit-tja": {
+    "Canonical name": "Tujia",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sit-tma": {
+    "Canonical name": "Tangkhul-Maring",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "sit-tng": {
+    "Canonical name": "Tangkhulic",
+    "Parent family": "Tangkhul-Maring",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "sit-tno": {
+    "Canonical name": "Tangsa-Nocte",
+    "Parent family": "Konyak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "sit-tsk": {
+    "Canonical name": "Tshangla",
+    "Parent family": "Bodish",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "sit-whm": {
+    "Canonical name": "West Himalayish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 5
+  },
+  "sit-zem": {
+    "Canonical name": "Zeme",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "ssa-fur": {
+    "Canonical name": "Fur",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "ssa-klk": {
+    "Canonical name": "Kuliak",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "ssa-kom": {
+    "Canonical name": "Koman",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "ssa-sah": {
+    "Canonical name": "Saharan",
+    "Parent family": "Nilo-Saharan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "tai-cen": {
+    "Canonical name": "Central Tai",
+    "Parent family": "Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "tai-cho": {
+    "Canonical name": "Chongzuo Tai",
+    "Parent family": "Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "tai-nor": {
+    "Canonical name": "Northern Tai",
+    "Parent family": "Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "tai-sap": {
+    "Canonical name": "Sapa-Southwestern Tai",
+    "Parent family": "Wenma-Southwestern Tai",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 1
+  },
+  "tai-swe": {
+    "Canonical name": "Southwestern Tai",
+    "Parent family": "Sapa-Southwestern Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 27
+  },
+  "tai-tay": {
+    "Canonical name": "T\u00e0y",
+    "Parent family": "Wenma-Southwestern Tai",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 1
+  },
+  "tai-wen": {
+    "Canonical name": "Wenma-Southwestern Tai",
+    "Parent family": "Tai",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 0
+  },
+  "tbq-anp": {
+    "Canonical name": "Angami-Pochuri",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 9
+  },
+  "tbq-bdg": {
+    "Canonical name": "Bodo-Garo",
+    "Parent family": "Sal",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 14
+  },
+  "tbq-bkj": {
+    "Canonical name": "Sal",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "tbq-brm": {
+    "Canonical name": "Burmish",
+    "Parent family": "Lolo-Burmese",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 15
+  },
+  "tbq-buq": {
+    "Canonical name": "Burmo-Qiangic",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 0
+  },
+  "tbq-kuk": {
+    "Canonical name": "Kukish",
+    "Parent family": "Sino-Tibetan",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 55
+  },
+  "tbq-lal": {
+    "Canonical name": "Lalo",
+    "Parent family": "Loloish",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "tbq-lob": {
+    "Canonical name": "Lolo-Burmese",
+    "Parent family": "Burmo-Qiangic",
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 3
+  },
+  "tbq-lol": {
+    "Canonical name": "Loloish",
+    "Parent family": "Lolo-Burmese",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 91
+  },
+  "trk-kar": {
+    "Canonical name": "Karluk",
+    "Parent family": "Turkic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "trk-kbu": {
+    "Canonical name": "Kipchak-Bulgar",
+    "Parent family": "Kipchak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "trk-kcu": {
+    "Canonical name": "Kipchak-Cuman",
+    "Parent family": "Kipchak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 6
+  },
+  "trk-kip": {
+    "Canonical name": "Kipchak",
+    "Parent family": "Turkic",
+    "Other names": [
+      "Western Turkic"
+    ],
+    "Subfamilies": 3,
+    "Languages": 2
+  },
+  "trk-kno": {
+    "Canonical name": "Kipchak-Nogai",
+    "Parent family": "Kipchak",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "trk-ogr": {
+    "Canonical name": "Oghur",
+    "Parent family": "Turkic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "trk-ogz": {
+    "Canonical name": "Oghuz",
+    "Parent family": "Turkic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 8
+  },
+  "trk-sib": {
+    "Canonical name": "Siberian Turkic",
+    "Parent family": "Turkic",
+    "Other names": [
+      "Northern Turkic"
+    ],
+    "Subfamilies": 0,
+    "Languages": 12
+  },
+  "tup-gua": {
+    "Canonical name": "Tupi-Guarani",
+    "Parent family": "Tupian",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 50
+  },
+  "urj-mdv": {
+    "Canonical name": "Mordvinic",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "urj-prm": {
+    "Canonical name": "Permic",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "urj-ugr": {
+    "Canonical name": "Ugric",
+    "Parent family": "Uralic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 5
+  },
+  "xme-ttc": {
+    "Canonical name": "Tatic",
+    "Parent family": "Median",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 18
+  },
+  "xsc-sak": {
+    "Canonical name": "Sakan",
+    "Parent family": "Saka-Wakhi",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 3
+  },
+  "xsc-skw": {
+    "Canonical name": "Saka-Wakhi",
+    "Parent family": "Scythian",
+    "Other names": [],
+    "Subfamilies": 1,
+    "Languages": 2
+  },
+  "zhx-gba": {
+    "Canonical name": "Greater Bai",
+    "Parent family": "Sinitic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "zhx-min": {
+    "Canonical name": "Min",
+    "Parent family": "Sinitic",
+    "Other names": [],
+    "Subfamilies": 2,
+    "Languages": 1
+  },
+  "zhx-min-hai": {
+    "Canonical name": "Coastal Min",
+    "Parent family": "Min",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 4
+  },
+  "zhx-min-shn": {
+    "Canonical name": "Inland Min",
+    "Parent family": "Min",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 2
+  },
+  "zlw-lch": {
+    "Canonical name": "Lechitic",
+    "Parent family": "West Slavic",
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 7
+  },
+  "art": {
+    "Canonical name": "constructed",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 33
+  },
+  "crp": {
+    "Canonical name": "creole or pidgin",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 107
+  },
+  "paa": {
+    "Canonical name": "Papuan",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 71
+  },
+  "qfa-iso": {
+    "Canonical name": "isolate",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 59
+  },
+  "qfa-mix": {
+    "Canonical name": "mixed",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 0,
+    "Languages": 10
+  },
+  "qfa-not": {
+    "Canonical name": "not a family",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 7,
+    "Languages": 2
+  },
+  "sgn": {
+    "Canonical name": "sign",
+    "Parent family": null,
+    "Other names": [],
+    "Subfamilies": 3,
+    "Languages": 134
+  }
+}

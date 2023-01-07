@@ -1,0 +1,320 @@
+{{derived|en|fr|bureaucrate}}
+{{derived|vo|en|rose}}
+{{inherited|sco|enm|moder}}
+{{inherited|sco|ang|mōdor}}
+{{inherited|en|ang|hundred}}
+{{inherited|en|gem-pro|*hundaradą}}
+{{inherited|ang|gem-pro|*hundaradą||hundred}}
+{{inherited|en|enm|to|t=to}}
+{{inherited|en|ang|tō|t=to}}
+{{inherited|en|gem-pro|*tō}}
+{{inherited|en|ine-pro|*de}}
+{{borrowed|tl|en|January}}
+{{borrowed|tl|en|April}}
+{{borrowed|tl|en|June}}
+{{borrowed|en|de|Ablaut|gloss=sound gradation}}
+{{borrowed|id|de|Ablaut|gloss=sound gradation}}
+{{borrowed|sh|de|Ablaut}}
+{{borrowed|en|fr|billion}}
+{{borrowed|en|fr|trillion}}
+{{borrowed|es|en|cool}}
+{{learned borrowing|en|la|aberrātiō|gloss=relief, diversion|notext=1}}
+{{learned borrowing|sq|la|[[ars]], [[artem]]}}
+{{unadapted borrowing|id|en|Thailand}}
+{{unadapted borrowing|es|en|software}}
+{{root|en|ine-pro|*deyḱ-}}
+{{root|en|ine-pro|*preyH-}}
+{{root|en|ine-pro|*peh₂w-}}
+{{root|en|ine-pro|*gʷerH-}}
+{{root|la|ine-pro|*gʷerH-}}
+{{root|en|ine-pro|*werh₁-}}
+{{root|ang|ine-pro|*werh₁-}}
+{{root|osx|ine-pro|*werh₁-}}
+{{root|en|ine-pro|*(s)pend-}}
+{{root|en|ine-pro|*h₂ewg-}}
+{{calque|eo|en|Wikipedia|nocap=1}}
+{{calque|en|fr|faux-ami}}
+{{calque|en|NL.|Achillis tendo}}
+{{calque|en|oj|mashkiki|t=medicine|nocap=1}}
+{{calque|en|non|Ísland|nocap=1}}
+{{calque|en|non|Grœnland|nocap=1}}
+{{calque|en|la|participō}}
+{{calque|en|bo|མི་སྡུག་གངས་མི}}
+{{calque|en|it|Città del Vaticano}}
+{{calque|en|ru|Сою́з Сове́тских Социалисти́ческих Респу́блик}}
+{{semantic loan|fr|es|casa|nocap=1}}
+{{semantic loan|la|grc-koi|οὐδέτερος|nocap=1}}
+{{semantic loan|id|en|ace}}
+{{desc|sq|thesar|bor=1}}
+{{desc|ca|tresor}}
+{{desc|ca|tesaurus|bor=1|nolb=1}}
+{{desc|en|thesaurus|bor=1}}
+{{desc|cy|thesawrws|bor=1}}
+{{desc|fr|thésaurus|bor=1}}
+{{desc|it|tesauro}}
+{{desc|pms|tesòr}}
+{{desc|pt|tesauro}}
+{{desc|ro|tezaur}}
+{{m|la|dictiō||speaking}}
+{{m|la|dictus}}
+{{m|la|dīcō||speak}}
+{{m|la|-ārium||room, place}}
+{{m|en|the}}
+{{m|enm|fre}}
+{{m|enm|freo}}
+{{m|ine-pro|*preyH-||to love, please}}
+{{m|en|friend}}
+{{m|enm|freoȝen}}
+{{l|en|diction}}
+{{l|de|Wörterbuch}}
+{{l|en|encyclopedia}}
+{{l|en|lexicon}}
+{{l|en|thesaurus}}
+{{l|en|vocabulary}}
+{{l|en|wordlist}}
+{{l|en|unfree}}
+{{l|en|-free}}
+{{l|en|befree}}
+{{clipping|en|ponder}}
+{{clipping|en|velociraptor|nocap=1}}
+{{clipping|en|trombone}}
+{{clipping|en|heterosexual}}
+{{clipping|en|heterozygous}}
+{{clipping|fr|pseudonyme}}
+{{clipping|gd|agus||and}}
+{{clipping|da|hundredkroneseddel|t=hundred-kroner note}}
+{{clipping|en|robot}}
+{{clipping|en|bumfodder}}
+{{back-formation|en|pseudonymous}}
+{{back-formation|en|millstone}}
+{{back-formation|en|arms|pos=plural}}
+{{back-formation|enm|waxen|t=to grow|id=to grow|nocap=1}}
+{{onomatopoeic|en|title=imitative}}
+{{onomatopoeic|en|title=onomatopoeic}}
+{{onomatopoeic|sem-pro|nocap=1}}
+{{onomatopoeic|en|title=onomatopoeic}}
+{{onomatopoeic|en|title=imitative}}
+{{onomatopoeic|ro}}
+{{onomatopoeic|pi}}
+{{onomatopoeic|nl|title=onomatopoeia}}
+{{onomatopoeic|cy|title=expressive}}
+{{onomatopoeic|en}}
+{{unknown|la}}
+{{unknown|la}}
+{{unknown|nl}}
+{{unknown|nl}}
+{{short for|ja|西班牙|tr=Supein|nodot=1|sort=すへいん}}
+{{short for|ja|西本願寺|tr=Nishi Hongan-ji|nodot=1|sort=にし}}
+{{short for|ja|nocap=1|nodot=1|sort=くるま|車海老}}
+{{short for|ja|nocap=1|nodot=1|sort=くるま|車懸}}
+{{short for|ja|nocap=1|nodot=1|sort=くるま|肩車}}
+{{short for|ja|nocap=1|nodot=1|sort=くるま|手車}}
+{{short for|ja|nocap=1|nodot=1|sort=くるま|車座}}
+{{short for|fi|kunpa}}
+{{short for|en|spring tide|nodot=a}}
+{{short for|vi|Thiên Can||[[celestial stem]]}}
+{{alternative form of|pt|freire}}
+{{alternative form of|fro|chat}}
+{{alternative form of|nb|livré}}
+{{alternative form of|nn|livré}}
+{{alternative form of|enm|booke}}
+{{alternative form of|enm|bouk}}
+{{alternative form of|nl|pis|nodot=yes}}
+{{alternative form of|enm|pye|id=pie|t=pie}}
+{{alternative form of|enm|pye|id=magpie|t=magpie}}
+{{alternative form of|pt|á}}
+{{cognate|it|ne|||tr=|pos=|g=|id=}}
+{{affix|de|um|sonst}}
+{{affix|en|non-|t1=no, none, lack of|sense}}
+{{affix|en|hypo-|gloss1=under|-onym|gloss2=name; word}}
+{{affix|en|sesquipedalian|-ism}}
+{{affix|en|sesqui-|gloss1=one and a half|pedalian|gloss2=of the foot}}
+{{affix|grc|ἀ-|gloss1=not|τέμνω|gloss2=I cut|sc=polytonic|nocat=1}}
+{{affix|zu|a-|t1=relative|a-|t2=class 6}}
+{{affix|en|a-|gloss1=towards|back|gloss2=back}}
+{{affix|en|ab-|actinal}}
+{{affix|en|ab-|articulation}}
+{{prefix|en|a|beam|t1=in the direction of|t2=keel}}
+{{prefix|en|a|bear}}
+{{prefix|en|a|bed|t1=in, on}}
+{{prefix|la|ab|gloss1=from|horreō|gloss2=stand aghast, bristle with fear|nocat=1}}
+{{prefix|en|a|bide}}
+{{prefix|en|a|biological|t1=without|t2=relating to life}}
+{{prefix|la|ab|t1=from|irrītō|t2=to irritate}}
+{{prefix|en|ab|irritant}}
+{{prefix|en|ab|irritate}}
+{{prefix|la|ab|t1=away|iaciō|t2=to throw|nocat=yes}}
+{{confix|en|lexico|pos1=prefix meaning ‘speech; words’|graphy|pos2=suffix meaning ‘something written about a specified subject’}}
+{{confix|en|ant|onym}}
+{{confix|en|syn|onym}}
+{{confix|en|anti|disestablishmentarian|ism}}
+{{confix|en|abdomino|scopy}}
+{{confix|it|deca|ade}}
+{{confix|en|bi|gloss1=two|illion}}
+{{confix|fr|bi|gloss1=two|illion}}
+{{confix|fr|tri|gloss1=three|illion|nocat=1}}
+{{confix|fr|tri|gloss1=three|illion}}
+{{suffix|en|connote|ation}}
+{{suffix|fr|connoter|ation}}
+{{suffix|en|polyseme|ic}}
+{{suffix|en|adjective|al}}
+{{suffix|fr|adjective|al}}
+{{suffix|en|patron|age}}
+{{suffix|fr|patron|age}}
+{{suffix|la|faba|ella|gloss1=bean}}
+{{suffix|en|Aaron|ic}}
+{{suffix|en|abacinate|ion}}
+{{compound|la|floccus|t1=a wisp|naucum|t2=a trifle|nihilum|t3=nothing|pilus|t4=a hair|nocat=1}}
+{{compound|af|aarde|t1=earth, soil|wolf}}
+{{compound|la|ab|t1=from, away from|errō|t2=stray|nocat=1}}
+{{compound|en|able|bodied}}
+{{compound|en|above|deck}}
+{{compound|en|above|said}}
+{{compound|ja|sort=くるま|くる|tr1=kuru|pos1=related to spinning or rotating, as in {{m|ja|繰る|tr=kuru||to spin (as in thread)}}, {{m|ja|枢|tr=kuru||hinge}}, {{m|ja|くるくる|tr=kurukuru||spinningly, round and round}}, {{m|ja|転めく|tr=kurumeku||to spin round and round, to rotate; to be dizzy}}|ま|tr2=ma|pos2=a suffix added to various parts of speech to form an indeclinable word indicating state}}
+{{compound|en|watch|list}}
+{{compound|ka|ორი|t1=two|შაბათი|t2=Saturday}}
+{{compound|en|absent|minded}}
+{{doublet|en|treasure}}
+{{doublet|en|verb}}
+{{doublet|enm|verbe}}
+{{doublet|en|libra|lira}}
+{{doublet|fr|liber}}
+{{doublet|en|pood}}
+{{doublet|en|[[pound#Etymology_2|pound]]}}
+{{doublet|en|bruin}}
+{{doublet|en|Gennaro}}
+{{doublet|en|Augustus}}
+{{named-after|en|Vidkun Quisling|nat=Norwegian|occ=military officer|born=1887|died=1945|wplink==}}
+{{named-after|en|nat=Genoese|occ=explorer|Christopher Columbus|wplink==|born=1451|died=1506|nocap=1}}
+{{named-after|es|nat=Genoese|occ=explorer|Christopher Columbus|wplink==|born=1451|died=1506}}
+{{named-after|en|occ=philosopher and logician|Willard Van Orman Quine|wplink==}}
+{{rel2|en|encyclopedical|encyclopedic|encyclopedic fiction|encyclopedist|encyclopedic dictionary|-pedia}}
+{{rel2|en|{{l|en|August}}
+|{{l|en|Augustine}}
+|{{l|en|Augustinian}}
+|{{l|en|auction}}
+|{{l|en|augment}} {{q|see more related terms}}
+}}
+{{rel2|en|abominate|abomination}}
+{{rel2
+|en|abundance
+|abundant
+}}
+{{rel2
+|es|{{l|es|robótica|g=f|t=robotics}}
+|{{l|es|robótico|pos=a|t=robotic}}
+}}
+{{rel2|en|in love|in situ|in tatters|in turn|in a hurry}}
+{{rel2|la|lenticula|lentīgō}}
+{{rel2|en
+|moron
+|oxy-
+|paradox
+|sophomore
+|paroxysm
+|oxalic}}
+{{rel2
+|fr|aire
+|aréage
+}}
+{{rel2|en|tenfold|tenth}}
+{{etystub|kw}}
+{{etystub|nl}}
+{{etystub|nl}}
+{{etystub|nl}}
+{{etystub|nl}}
+{{etystub|nl}}
+{{etystub|nl}}
+{{etystub|sv}}
+{{etystub|fy}}
+{{etystub|nl}}
+{{senseid|en|Q8171}}
+{{senseid|en|Q625642}}
+{{senseid|en|news, tidings}}
+{{senseid|en|reserve}}
+{{senseid|en|magpie}}
+{{senseid|en|legal rights}}
+{{senseid|en|noun}}
+{{senseid|en|verb}}
+{{senseid|en|multiplication}}
+{{senseid|en|be in command}}
+{{rfdef|vi|sort=犬00}}
+{{rfdef|vi|sort=犬00}}
+{{rfdef|vi|sort=酉00}}
+{{rfdef|nn}}
+{{rfdef|ro}}
+{{rfdef|pms}}
+{{rfdef|ca}}
+{{rfdef|en}}
+{{rfdef|vi}}
+{{rfdef|nn}}
+{{gloss|software}}
+{{gloss|dictionary of synonyms}}
+{{gloss|not containing or unaffected by}}
+{{gloss|substance}}
+{{gloss|substance}}
+{{gloss|an artwork in the form of a painted picture}}
+{{gloss|a person whose job is paining buildings}}
+{{gloss|obtainable without payment}}
+{{gloss|without needing to pay}}
+{{gloss|to change one’s state}}
+{{tlb|enm|rare}}
+{{tlb|en|obsolete|transitive}}
+{{tlb|en|American spelling}}
+{{tlb|en|American spelling}}
+{{tlb|ang|Anglian}}
+{{tlb|cim|7}}
+{{tlb|cim|13}}
+{{tlb|enm|Late ME}}
+{{tlb|it|regional}}
+{{tlb|hu|clitic}}
+{{qual|especially in ''Venezuela''}}
+{{qual|Central and South America}}
+{{qual|optative mood +}}
+{{qual|Anglo-Norman; in plural}}
+{{qual|musical note}}
+{{qual|musical note or key}}
+{{qual|indicating an agent}}
+{{qual|obsolete}}
+{{qual|in some words}}
+{{qual|plural}}
+{{ux|en|If you want to know the meaning of a word, look it up in the '''dictionary'''.}}
+{{ux|en|He was given '''free''' rein to do whatever he wanted.}}
+{{ux|en|a '''free''' man}}
+{{ux|en|He's very '''free''' with his money.}}
+{{ux|en|'''free''' time}}
+{{ux|en|a '''free''' school}}
+{{ux|en|This is a '''free''' country.}}
+{{ux|en|OpenOffice is [[free software|'''free''' software]].}}
+{{ux|en|The government provides '''free''' health care.}}
+{{ux|en|It's '''free''' real estate.}}
+{{given name|en|female|from=English}}
+{{given name|en|female|from=English}}
+{{given name|tl|female|from=English}}
+{{given name|tl|male|from=English}}
+{{given name|en|female|from=English}}
+{{given name|en|female|from=English}}
+{{given name|ceb|female|from=English|A=a}}
+{{given name|tl|female|from=English}}
+{{given name|en|female|from=English}}
+{{given name|da|female}}
+{{wikipedia}}
+{{wikipedia}}
+{{wikipedia|lang=la}}
+{{wikipedia}}
+{{wikipedia|lang=nl}}
+{{wikipedia|dab=livre}}
+{{wikipedia}}
+{{wikipedia}}
+{{wikipedia|lang=pl}}
+{{wikipedia}}
+{{sense|travelling case}}
+{{sense|schoolbag}}
+{{sense|any member of the [[suborder]] (sometimes [[superfamily]]) [[Feliformia]] or [[Feloidea]]}}
+{{sense|any member of the [[subfamily]] [[Felinae]], genera ''[[Puma]]'', ''[[Acinonyx]]'', ''[[Lynx]]'', ''[[Leopardus]]'', and ''[[Felis]]'')}}
+{{sense|any member of the subfamily [[Pantherinae]], genera ''[[Panthera]], [[Uncia]]'' and ''[[Neofelis]]''}}
+{{sense|technically, all members of the genus ''Panthera''}}
+{{sense|any member of the [[extinct]] subfamily [[Machairodontinae]], genera ''[[Smilodon]]'', {{taxlink|Homotherium|genus|ver=170212}}, {{taxlink|Miomachairodus|genus|nover=1|ver=170212}}, etc.}}
+{{sense|domestic species}}
+{{sense|sex}}
+{{sense|highest rank|grade|music}}
