@@ -1,0 +1,9 @@
+
+button {
+    min-width: 35px;
+    min-height: 35px;
+}
+
+.form-control::placeholder {
+    opacity: 65%;
+}
