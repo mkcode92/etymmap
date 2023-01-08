@@ -51,6 +51,8 @@ class PlainTextMapper(PlainTextMapperABC):
         return Specific.template_handler.to_text(elem, recursive=recursive)
 
     def process_wikilink(self, elem: wtp.WikiLink, recursive: bool) -> str:
+        if elem.text:
+            return elem.text
         title, fragment, special = analyze_link_target(elem.target)
         if special and special not in ("wikipedia", "Reconstruction"):
             return ""
