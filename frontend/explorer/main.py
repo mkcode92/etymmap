@@ -167,7 +167,7 @@ def create(neo_config: Neo4jConfig = default_config):
         Output(navbar.gid(navbar.ID.SIMPLE_SEARCH_TERM), "disabled"),
         Input(navbar.gid(navbar.ID.ADVANCED_SEARCH_TOGGLE), "n_clicks"),
         State(SEARCH_OPTIONS, "is_open"),
-        # prevent_initial_call=True,
+        prevent_initial_call=True,
     )
     def toggle_search_options(_, is_open):
         return not is_open, not is_open
@@ -628,9 +628,12 @@ if __name__ == "__main__":
         "--neo4j-config", required=False, help="Configuration for neo4j"
     )
     args = parser.parse_args()
-    try:
-        config = json.loads(args.neo4j_config) if args.neo4j_config else None
-    except Exception as e:
-        raise ValueError("Configuration must be provided in json format")
-    app = create(Neo4jConfig(**config))
+    if args.neo4j_config:
+        try:
+            config = Neo4jConfig(**json.loads(args.neo4j_config))
+        except Exception as e:
+            raise ValueError("Configuration must be provided in json format")
+        app = create(config)
+    else:
+        app = create()
     app.run(port=8050, host="0.0.0.0")

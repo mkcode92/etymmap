@@ -163,7 +163,7 @@ The app is available at port 8050.
 * Top-Navbar
     * Query
         * simple search
-        * advanced search (toggled on the microscope)
+        * advanced search (toggled on 🔬)
         * aggregation on selected labels
     * Interaction
         * show pronunciation, etymology and glosses on click
