@@ -97,7 +97,7 @@ class GraphSerializer(abc.ABC):
             serializer.write_relations(relations)
 
     @classmethod
-    def get_by_name(cls, name):
+    def with_name(cls, name):
         stack: List[Type[GraphSerializer]] = [cls]
         while stack:
             c = stack.pop()

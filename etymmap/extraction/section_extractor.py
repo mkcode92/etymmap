@@ -104,6 +104,16 @@ class SectionExtractor(abc.ABC):
                 ]
         return []
 
+    @classmethod
+    def with_name(cls, name: str) -> "SectionExtractor":
+        todo = [cls]
+        while todo:
+            for s in todo.pop().__subclasses__():
+                if s.name == name:
+                    return s()
+                todo.extend(cls.__subclasses__())
+        raise ValueError(name)
+
 
 class BaselineExtractor(SectionExtractor):
     """

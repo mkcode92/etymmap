@@ -2,9 +2,9 @@ import argparse
 import logging
 from importlib import import_module
 
-from etymmap.cli import dump2mongo, analyze  # , extract, graph2neo
+from etymmap.cli import dump2mongo, analyze, extract, export
 
-SUBPARSERS = [dump2mongo, analyze]  # , extract, graph2neo]
+SUBPARSERS = [dump2mongo, analyze, extract, export]
 
 logger = logging.getLogger("cli")
 
@@ -12,7 +12,7 @@ logger = logging.getLogger("cli")
 def make_argparser():
     main_parser = argparse.ArgumentParser()
     main_parser.add_argument(
-        "-l", "--log-level", default=logging.WARNING, help="Set logger level"
+        "-l", "--log-level", default=logging.INFO, help="Set logger level"
     )
     main_parser.add_argument(
         "-s",

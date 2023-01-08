@@ -1,3 +1,4 @@
+import json
 import logging
 from collections import defaultdict
 from typing import List, Tuple
@@ -16,7 +17,7 @@ class Neo4jConfig:
     def __init__(self, uri: str, database: str, auth, query_timeout=10):
         self.uri = uri
         self.database = database
-        self.auth = auth
+        self.auth = tuple(auth)
         self.query_timeout = query_timeout
 
     def __repr__(self):
@@ -24,7 +25,7 @@ class Neo4jConfig:
 
 
 default_config = Neo4jConfig(
-    uri="neo4j://0.0.0.0:7687",
+    uri="neo4j://localhost:7687",
     database="etymmap",
     auth=("neo4j", "neo4j123"),
     query_timeout=10,
