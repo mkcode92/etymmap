@@ -10,23 +10,24 @@ authors = ["Markus Kobold <mkcode92@gmail.com>"]
 include = ["etymmap"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 lxml = "^4.9.0"
 networkx = "^2.8.3"
 pandas = "^1.4.2"
 pymongo = "^4.1.1"
 requests = "^2.27.1"
 tqdm = "^4.64.0"
-scikit-learn = "1.0"
-scipy = "^1.8"
 rdflib = "^6.2.0"
-pydot = "^1.4.2"
 wikitextparser = "0.47.9"
+scikit-learn = "1.0"
+
+[tool.poetry.group.notebooks.dependencies]
+jupyter = "^1.0.0"
+matplotlib = "^3.5.3"
+pydot = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 black = { extras = ["jupyter", "d"], version = "^22.8.0" }
-jupyter = "^1.0.0"
-matplotlib = "^3.5.3"
 
 [tool.poetry.scripts]
 etymmap = "etymmap.cli.main:main"

@@ -24,9 +24,8 @@ services:
       - "7474:7474"
       - "7687:7687"
     volumes:
-      - $HOME/c/priv/etymmap2/.neo4j/data:/data
-      - $HOME/c/priv/etymmap2/.neo4j/import:/import
-      - $HOME/c/priv/etymmap2/.neo4j/plugins:/plugins
+      - $ETYMMAP_DATA:/data
+      - $ETYMMAP_PLUGINS:/plugins
     environment:
       - NEO4J_AUTH=neo4j/neo4j123
       - NEO4J_dbms_default__database=etymmap
@@ -36,8 +35,13 @@ services:
       - NEO4JLABS_PLUGINS=["apoc"]
 
   explorer:
+    depends_on:
+      - neo4j
     image: etymmap-explorer:0.1.0
     hostname: explorer
     container_name: etymmap-explorer
+    command:
+      [ "poetry", "run", "python", "explorer/main.py", "--neo4j-config",
+        '{"uri": "neo4j://neo4j:7687", "database": "etymmap", "auth": ["neo4j", "neo4j123"], "query_timeout": 10}' ]
     ports:
       - "8050:8050"

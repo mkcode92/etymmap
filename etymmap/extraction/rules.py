@@ -180,16 +180,23 @@ class PatternAnnotator(SequenceRule):
 
 class LanguageAnnotator(PatternAnnotator):
     def __init__(self, skip=()):
+        super().__init__(re.compile("--deferred--"), "Language")
+        self.skip = skip
+
+    def _init(self):
         all_language_names = sorted(
             set(
                 [lang for lang in Specific.language_mapper.names if len(lang) > 2]
-            ).difference(skip),
+            ).difference(self.skip),
             key=len,
             reverse=True,
         )
-        super().__init__(
-            re.compile(r"\b(" + "|".join(all_language_names) + r")\b"), "Language"
-        )
+        self.pattern = re.compile(r"\b(" + "|".join(all_language_names) + r")\b")
+
+    def __call__(self, seq: tSeq) -> tSeq:
+        if not self.pattern:
+            self._init()
+        return super().__call__(seq)
 
 
 language_annotator = LanguageAnnotator(
@@ -223,6 +230,15 @@ class RelationAnnotator(SequenceRules):
 
     def __init__(self):
         super().__init__()
+        self.names2types = {}
+        self.rules = []
+
+    def __call__(self, seq):
+        if not self.names2types:
+            self._init()
+        return super().__call__(seq)
+
+    def _init(self):
         self.names2types = {
             re.compile(
                 r"\b" + f"({'|'.join([*names, type_.name])})" + r"\b", re.I

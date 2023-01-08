@@ -30,31 +30,141 @@ Checkout the project and install the dependencies.
 ```
 git clone https://github.com/mkcode92/etymmap.git
 cd etymmap
-poetry install --only main
+poetry install
 ```
-In the last command, choose the dependency groups based on what you want to do:
-* `main`: use etymmap to extract from a dump
-* `main, notebooks`: execute the notebooks
-* `main, app`: start the app from the script
-* install everything with `poetry install`
-
 If you only want to check out the app in docker with test data, you can also skip the poetry command.
 
 ### Extraction
 
-To start with the extraction, you need a dump of the English wiktionary from [here](https://dumps.wikimedia.org/enwiktionary/), for example
+To start with the extraction, you need a dump of the English wiktionary
+from [here](https://dumps.wikimedia.org/enwiktionary/), for example
 https://dumps.wikimedia.org/enwiktionary/20230101/enwiktionary-20230101-pages-articles.xml.bz2.
 
 The extraction follows the steps:
+
 1. articles are parsed and stored in a mongodb
-2. wiktionary can then be accessed through `etymmap.wiktionary.Wiktionary`
-3. the graph is extracted
+    * wiktionary can then be accessed through `etymmap.wiktionary.Wiktionary`
+2. the graph is extracted and stored as .gpickle binary
+3. the graph is exported in one of the formats JSON, [lemon](https://lemon-model.net/) (RDF) or neo4j (specialized csv)
 
 The last step requires a lot of ressources. If the entire lexicon is used, I recommend >= 12GB RAM.
+The times are based on my intel i7 8x2.8GHz CPU.
+For detailed usage, consult `etymmap -h` or `etymmap <subcommand> -h`.
 
+1. dump -> mongodb (~ 15min)
 
+If you use mongodb locally using `docker-compose up mongodb`, then the adress is `mongodb://localhost:27017`, which is
+also the default for the CLI.
+
+```
+etymmap dump2mongo dumps/enwiktionary-20230101-pages-articles.xml.bz2
+```
+
+This creates a mongo-database `enwiktionary` with collection `20230101`.
+You may use multiple workers for this.
+
+2. graph extraction (~ 3 min for first 200k entries)
+
+For the default usage:
+
+```
+etymmap extract --sections Etymology Descendants \
+                --db-config mongodb://localhost:27017 enwiktionary 20230101 \
+                --output enw200k.gpickle
+                --head 200000
+```
+
+In the first run, this will also initialize an in-memory lexicon (i.e. index), which is cached in a
+file `.lexicon.pickle` (see `--cache` parameter).
+Node and relation unification is immedeatly applied, depending on parameter `--reduction` the graph is reduced:
+
+* `full`: transitive reduction and unspecific edge pruning*
+* `transitive`: only transitive reduction
+* `off`: no reduction
+
+Additionally, you can include `DerivedTerms` or `RelatedTerms` in the sections.
+Of course, depending on your resources, you can also extract the complete graph, which takes around 10 times longer.
+
+3. export the data (~ 5 min for first 200k)
+
+```
+etymmap export enw200k.gpickle -o .neo4j/import/enw200k --format neo4j \
+                --db-config mongodb://localhost:27017 enwiktionary 20230101
+
+```
+
+This exports all nodes (+ data) and relations of the graph in a csv format suited for neo4j import.
+The other available formats are `simple`, `json` and `lemon`.
+This may take a while as most of the entries are only parsed now in order to export their node information (
+pronunciation, etymology text and glosses/definitions).
+
+*_Unspecific edge pruning_ means: all edges of type _related_ are removed unless they connect otherwise unconnected
+components in the _origin_-subgraph.
+The assumption is, that intra-component edges often describe a transitive etymological relation and are redundant.
 
 ### Exploration
+1. Initialize neo4j
+
+The app requires that the previously extracted data are available inside the neo4j database.
+Neo4j must not be running when importing the data.
+```
+./import_neo4j.sh enw200k
+```
+`enw200k` is the directory that contains the exported data _inside the .neo4j folder that will also contain the database_.
+You can also derive your own neo4j admin script from the given script if you prefer a different setup.
+
+2. Start neo4j
+```
+export ETYMMAP_DATA=.neo4j/data ETYMMAP_PLUGINS=.neo4j/plugins && docker-compose up neo4j
+```
+This may need a moment, as the apoc plugin is installed.
+With `ETYMMAP_DATA`, you specify where your previously compiled database lies.
+`ETYMMAP_PLUGINS` specifies, where plugins are stored.
+
+The graph data can now also be explored using the neo4j UI at `localhost:7474/browser`.
+
+3. Start the app
+
+The app uses `etymmap` as a library. You can build the wheel with
+```
+poetry build
+```
+
+Then, **either**
+
+A: Start from within the code.
+```
+cd frontend
+# setup environment
+poetry install
+# start the debug app server
+poetry run python explorer/main.py
+```
+
+B: Run from within container:
+```
+# build etymmap library, which is used by app
+poetry build . 
+
+# build the docker image
+docker build . -f frontend/Dockerfile -t etymmap-explorer:0.1.0
+
+docker-compose up explorer
+```
+
+The app is available at port 8050.
+
+### Explorer features
+* detailed search
+  * regex-based term matching
+* interactive graph pruning/expansion
+* Label creation
+* label-based aggregation
+* displays trees of
+  * relation ontology
+  * language dependencies
+* export of the displayed graph as .json and .xlsx
+* export of the cypher history
 
 ## Details
 
