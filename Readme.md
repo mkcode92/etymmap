@@ -35,6 +35,8 @@ cd etymmap
 poetry install
 ```
 If you only want to check out the app in docker with test data, you can also skip the poetry command.
+Then you can use the [demo_data](demo_data). For the `import_neo4j.sh` script, these should
+be extracted to `.neo4j/import/enw200k`.
 
 ### Extraction
 
