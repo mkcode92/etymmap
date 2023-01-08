@@ -18,6 +18,8 @@ The project consists of three parts:
 
 You can either extract the most recent dump yourself or use the demo data, if you just want to try out the app.
 
+![app-screenshot](etymmap.png)
+
 ### Setup
 
 Project dependencies are managed with [poetry](https://python-poetry.org/docs/#installation).
@@ -53,7 +55,7 @@ For detailed usage, consult `etymmap -h` or `etymmap <subcommand> -h`.
 
 1. dump -> mongodb (~ 15min)
 
-If you use mongodb locally using `docker-compose up mongodb`, then the adress is `mongodb://localhost:27017`, which is
+If you use mongodb locally with `docker-compose up mongodb`, then the adress is `mongodb://localhost:27017`, which is
 also the default for the CLI.
 
 ```
@@ -155,16 +157,46 @@ docker-compose up explorer
 The app is available at port 8050.
 
 ### Explorer features
-* detailed search
-  * regex-based term matching
-* interactive graph pruning/expansion
-* Label creation
-* label-based aggregation
-* displays trees of
-  * relation ontology
-  * language dependencies
-* export of the displayed graph as .json and .xlsx
-* export of the cypher history
+
+![app-screenshot](etymmap.png)
+
+* Top-Navbar
+    * Query
+        * simple search
+        * advanced search (toggled on the microscope)
+        * aggregation on selected labels
+    * Interaction
+        * show pronunciation, etymology and glosses on click
+        * prune nodes/ edges
+        * expand neighbours or start query from clicked node
+    * Layouts
+        * select static and dynamic layouts
+    * Download
+      * download displayed graph as .json or .xlsx
+      * download cypher history
+
+* Advanced search
+    * Specify Source, Subgraph or Target nodes
+      * ⩾ : also select children
+      * .*: use regex
+      * \|, &: select nodes that have any of the labels ( \| ) or all ( & )
+      * not: invert selection
+    * Specify relation type
+    * Specify search depth, direction of the relations and limit
+      * !! be careful what your machine/browser can handle, if not sure,
+        increase limit step by step.
+        Search depth > 5 is not a good idea, as the graph is huge and very densly connected
+      * make queries as specific as possible
+    * Trees
+      * Display language tree (combination of families and phylogenetic tree)
+      * Display relation ontology
+    * Labels
+      * type a label and click "+" to set the label for all visible nodes
+        * 🗑: delete selected labels
+        * ⟳: reload node labels from database
+      * select a label to include it in label aggregation
+      * optionally also aggregate by language
+      
 
 ## Details
 

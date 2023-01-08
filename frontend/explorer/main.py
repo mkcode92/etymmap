@@ -633,4 +633,4 @@ if __name__ == "__main__":
     except Exception as e:
         raise ValueError("Configuration must be provided in json format")
     app = create(Neo4jConfig(**config))
-    app.run(port=8050)
+    app.run(port=8050, host="0.0.0.0")
